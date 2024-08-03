@@ -1,0 +1,65 @@
+{
+  "results": {
+    "wikitext": {
+      "word_perplexity,none": 33.11619603628333,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.9242219368239073,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9442752069507734,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "wikitext"
+    }
+  },
+  "configs": {
+    "wikitext": {
+      "task": "wikitext",
+      "dataset_path": "EleutherAI/wikitext_document_level",
+      "dataset_name": "wikitext-2-raw-v1",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "",
+      "doc_to_target": "<function wikitext_detokenizer at 0x7fb5bddc4860>",
+      "process_results": "<function process_results at 0x7fb5bddc4ae0>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "{{page}}",
+      "metadata": {
+        "version": 2.0
+      }
+    }
+  },
+  "versions": {
+    "wikitext": "Yaml"
+  },
+  "n-shot": {
+    "wikitext": 0
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=EleutherAI/pythia-160m,dtype=float32",
+    "batch_size": "1",
+    "batch_sizes": [],
+    "device": "cuda:0",
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null
+  },
+  "git_hash": "6a1c19ed"
+}

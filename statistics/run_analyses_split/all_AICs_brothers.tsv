@@ -1,0 +1,15 @@
+Dataset	ModelName	ModelArchitecture	ModelSize	Surprisal_AIC
+Brothers & Kuperberg (2021): 3W-RT	mamba-130m-hf	mamba	129135360	85913.30816999885
+Brothers & Kuperberg (2021): 3W-RT	mamba-1_4b-hf	mamba	1372178432	85887.23631487148
+Brothers & Kuperberg (2021): 3W-RT	mamba-2_8b-hf	mamba	2768345600	85884.18520189548
+Brothers & Kuperberg (2021): 3W-RT	mamba-370m-hf	mamba	371516416	85880.25707471173
+Brothers & Kuperberg (2021): 3W-RT	mamba-790m-hf	mamba	793204224	85880.6923419972
+Brothers & Kuperberg (2021): 3W-RT	pythia-160m	pythia	162322944	85930.44018728274
+Brothers & Kuperberg (2021): 3W-RT	pythia-1_4b	pythia	1414647808	85873.66746642944
+Brothers & Kuperberg (2021): 3W-RT	pythia-1b	pythia	1011781632	85896.40343652575
+Brothers & Kuperberg (2021): 3W-RT	pythia-2_8b	pythia	2775208960	85889.87355507199
+Brothers & Kuperberg (2021): 3W-RT	pythia-410m	pythia	405334016	85906.90332112393
+Brothers & Kuperberg (2021): 3W-RT	rwkv-4-169m-pile	rwkv	169342464	85905.68512856487
+Brothers & Kuperberg (2021): 3W-RT	rwkv-4-1b5-pile	rwkv	1515106304	85896.48734339527
+Brothers & Kuperberg (2021): 3W-RT	rwkv-4-3b-pile	rwkv	2984627200	85883.0413924792
+Brothers & Kuperberg (2021): 3W-RT	rwkv-4-430m-pile	rwkv	430397440	85888.8855190896

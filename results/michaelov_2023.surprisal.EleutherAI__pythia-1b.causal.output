@@ -1,0 +1,501 @@
+FullSentence	Sentence	TargetWords	Surprisal	NumTokens
+Henry was surprised to find he wouldn't be promoted for his day to day performance, but needed a major raise	Henry was surprised to find he wouldn't be promoted for his day to day performance, but needed a major raise	 raise	5.811762424792201	1
+The cigar burned a hole in the couch	The cigar burned a hole in the couch	 couch	6.702869955395068	1
+His first film was a failure, but he learned some techniques in that first try	His first film was a failure, but he learned some techniques in that first try	 try	6.487104943681168	1
+He was hired for the job because of his fresh new look	He was hired for the job because of his fresh new look	 look	1.7614552477295076	1
+The journal issue that has the new article about diseases of the eye is still in print	The journal issue that has the new article about diseases of the eye is still in print	 print	3.6721147353116392	1
+Every spring they held the annual ball	Every spring they held the annual ball	 ball	6.528609378533579	1
+Penelope started to assemble her new bicycle, but was missing the wheels	Penelope started to assemble her new bicycle, but was missing the wheels	 wheels	4.477591050355566	1
+The restaurant will reopen with new management	The restaurant will reopen with new management	 management	3.690425507521177	1
+Jennifer disliked walking under the trees at the edge of the park because they were always full of bugs	Jennifer disliked walking under the trees at the edge of the park because they were always full of bugs	 bugs	3.2256315869847203	1
+The painting had a strong impact on everyone, but they couldn't agree on whether it was ugly or pretty	The painting had a strong impact on everyone, but they couldn't agree on whether it was ugly or pretty	 pretty	4.165760762054215	1
+I don't know why people like to see their initials in print	I don't know why people like to see their initials in print	 print	3.707547453624528	1
+The gem cutter examined the ruby very closely before cutting because he knew that one this large was very rare	The gem cutter examined the ruby very closely before cutting because he knew that one this large was very rare	 rare	1.636578143401214	1
+They couldn't decide whether to visit the Roman fort or the ruins of Aphrodite's temple	They couldn't decide whether to visit the Roman fort or the ruins of Aphrodite's temple	 temple	2.190704983121712	1
+He took a job training dogs for the police	He took a job training dogs for the police	 police	3.2378229726863004	1
+The conductor gave detailed instructions to the orchestra	The conductor gave detailed instructions to the orchestra	 orchestra	3.4351555465588923	1
+Down in the basement, Steve and Robert were playing cards	Down in the basement, Steve and Robert were playing cards	 cards	3.8649172931703086	1
+After the most recent price increase, the small business owner decided to order his office supplies from another company	After the most recent price increase, the small business owner decided to order his office supplies from another company	 company	1.443612374961364	1
+Sharon was sad that she had lost her dog	Sharon was sad that she had lost her dog	 dog	3.9849882825618184	1
+All of armed services will admit women, but females are barred from combat	All of armed services will admit women, but females are barred from combat	 combat	2.4741450346470057	1
+After the divorce, she had to move out of the expensive house to an apartment that was cheap	After the divorce, she had to move out of the expensive house to an apartment that was cheap	 cheap	5.692556262619999	1
+His tactics usually turned out to be beneficial for the business, but they often came in conflict with his morals	His tactics usually turned out to be beneficial for the business, but they often came in conflict with his morals	 morals	6.3508685414631785	2
+Some of his jokes were crummy, but those one-liners were hilarious	Some of his jokes were crummy, but those one-liners were hilarious	 hilarious	3.9242412391019665	1
+The inspector from the health department found a roach in a very expensive restaurant	The inspector from the health department found a roach in a very expensive restaurant	 restaurant	5.342777821958381	1
+The conductor had no idea that the train had been boarded by a known felon	The conductor had no idea that the train had been boarded by a known felon	 felon	3.8097560969554074	1
+The nurse brought him a glass of juice and his medicine	The nurse brought him a glass of juice and his medicine	 medicine	6.2781279154613125	1
+The teacher was not looking forward to another year of school	The teacher was not looking forward to another year of school	 school	2.8188155153654866	1
+Steve skipped his annual checkup for another year	Steve skipped his annual checkup for another year	 year	1.2842608723454605	1
+The candidate wanted to please everyone without making any commitments, so his speech was deliberately vague	The candidate wanted to please everyone without making any commitments, so his speech was deliberately vague	 vague	1.434736779985093	1
+She poured water on the plants	She poured water on the plants	 plants	7.518138074376693	1
+Mark liked the older houses, but Susan wanted to buy one that was new and modern	Mark liked the older houses, but Susan wanted to buy one that was new and modern	 modern	2.2979019631150384	1
+In an old sitcom, he was the wise family doctor	In an old sitcom, he was the wise family doctor	 doctor	1.8507632787846675	1
+The government controlled the news media, so most of the reports from the war zone were censored	The government controlled the news media, so most of the reports from the war zone were censored	 censored	5.020663881263894	2
+Grinning wherever he went, it was easy to tell that Carl was proud of his new gold medal	Grinning wherever he went, it was easy to tell that Carl was proud of his new gold medal	 medal	3.1293529763818526	1
+During the summer, the children hung out at the pool	During the summer, the children hung out at the pool	 pool	3.7533004819565066	1
+The handsome knight charged into the dark forest after the kidnapped princess, determined to prove that he could be heroic	The handsome knight charged into the dark forest after the kidnapped princess, determined to prove that he could be heroic	 heroic	7.2995439433277145	1
+The little girl kept a lock on her diary	The little girl kept a lock on her diary	 diary	7.052830296367169	1
+Flying low above her, Bernice could hear the plane	Flying low above her, Bernice could hear the plane	 plane	8.000210710724218	1
+Perry heard a grinding noise coming from his car	Perry heard a grinding noise coming from his car	 car	3.2943336236234777	1
+If Jim's manager is incompetent, he has a legitimate right to complain	If Jim's manager is incompetent, he has a legitimate right to complain	 complain	3.847970236723588	1
+In the best part of the movie, the hero has to impersonate the villain	In the best part of the movie, the hero has to impersonate the villain	 villain	1.8210731395527016	1
+The princess wore a crown	The princess wore a crown	 crown	4.043182548041477	1
+Jason was disappointed when the other scouts scared off the elk by loudly beating the drum	Jason was disappointed when the other scouts scared off the elk by loudly beating the drum	 drum	3.904721751918332	1
+After the flood, the house smelled of mildew and everything in it was ruined	After the flood, the house smelled of mildew and everything in it was ruined	 ruined	3.284770187303438	1
+Everyone on the scene gathered around to look at the accident	Everyone on the scene gathered around to look at the accident	 accident	7.3325741399609825	1
+The final score of the game was tied	The final score of the game was tied	 tied	3.360023287252885	1
+After swimming the English Channel, Bonita was cold and completely exhausted	After swimming the English Channel, Bonita was cold and completely exhausted	 exhausted	1.7131075824796833	1
+She had the data to back up everything she said, so the hostile questions did not shake her confidence	She had the data to back up everything she said, so the hostile questions did not shake her confidence	 confidence	1.6488197709857213	1
+The new dress was very pretty, but it was cut from an unusual fabric	The new dress was very pretty, but it was cut from an unusual fabric	 fabric	1.9470840917273509	1
+When the little girl saw the big dog lumbering towards her, she began to run	When the little girl saw the big dog lumbering towards her, she began to run	 run	2.7494073836745185	1
+From her house a half mile away, Diana could still hear the loud cheers coming from the stadium	From her house a half mile away, Diana could still hear the loud cheers coming from the stadium	 stadium	3.2251986375335835	1
+Five ships did not survive the storm	Five ships did not survive the storm	 storm	2.8090886611183867	1
+The paramedics on the scene helped the passengers after the big car accident	The paramedics on the scene helped the passengers after the big car accident	 accident	3.62894122742092	1
+The pilot spoke to an air traffic controller just before the crash	The pilot spoke to an air traffic controller just before the crash	 crash	1.3304513889949698	1
+The boy scouts started a long hike through the forest after having a big lunch	The boy scouts started a long hike through the forest after having a big lunch	 lunch	2.271883400058191	1
+When traveling, Roger prefers to stick to major roads	When traveling, Roger prefers to stick to major roads	 roads	2.907649847555681	1
+While hemming a pair of pants, Bridget accidentally dropped her needle	While hemming a pair of pants, Bridget accidentally dropped her needle	 needle	8.464010351600955	1
+The rangers say that somewhere in the state park is a bear	The rangers say that somewhere in the state park is a bear	 bear	5.293420234137269	1
+The doctor told him his headaches were due to stress	The doctor told him his headaches were due to stress	 stress	2.3355336353507634	1
+The groups in the parade walked by slowly, each waving their hands	The groups in the parade walked by slowly, each waving their hands	 hands	2.1093435368296203	1
+The little girl was very sick, but unfortunately there was no cure	The little girl was very sick, but unfortunately there was no cure	 cure	2.5531004964039417	1
+The meteor shower should have been spectacular, but the city lights blocked the view	The meteor shower should have been spectacular, but the city lights blocked the view	 view	1.0260067158597383	1
+She was unsure how the book would end	She was unsure how the book would end	 end	2.814407266348356	1
+He was desperate for a job, so finally took something doing door to door sales	He was desperate for a job, so finally took something doing door to door sales	 sales	4.507929850445795	1
+The young doctor wanted to work in the barrio so she set to work learning the Spanish translations of common medical terms	The young doctor wanted to work in the barrio so she set to work learning the Spanish translations of common medical terms	 terms	0.4882061518804284	1
+Even though she was blindfolded, Jessie could tell from their voices that one of the kidnapers was old and two were young	Even though she was blindfolded, Jessie could tell from their voices that one of the kidnapers was old and two were young	 young	0.9736286583748016	1
+In the window, they posted the hours they were open for business	In the window, they posted the hours they were open for business	 business	2.588236935116897	1
+They sent the kids with measles home from school because they were contagious	They sent the kids with measles home from school because they were contagious	 contagious	4.661862854681338	2
+Outside, Cora could hear the running water	Outside, Cora could hear the running water	 water	2.1655394321743278	1
+At night they often took a short walk	At night they often took a short walk	 walk	1.3795453719248827	1
+The wealthy author always points out that she wrote four novels before one was published	The wealthy author always points out that she wrote four novels before one was published	 published	0.20704226489348304	1
+The kitten waited patiently because behind the refrigerator was a mouse	The kitten waited patiently because behind the refrigerator was a mouse	 mouse	7.106587824073559	1
+Norton hates getting up on winter mornings because it is always cold	Norton hates getting up on winter mornings because it is always cold	 cold	1.331180372858249	1
+The fertilizer enriched the soil	The fertilizer enriched the soil	 soil	0.8943858912143108	1
+The young girl passed her friend a note	The young girl passed her friend a note	 note	1.8249605394179305	1
+He tinkered with the engine every weekend until it was absolutely perfect	He tinkered with the engine every weekend until it was absolutely perfect	 perfect	0.8160165661545564	1
+When Diane heard the shark warning, she swam as fast as she could for shore	When Diane heard the shark warning, she swam as fast as she could for shore	 shore	2.7033795298035908	1
+Michael could hear the bells ringing in the tower of the church	Michael could hear the bells ringing in the tower of the church	 church	1.9481134513515588	1
+When he got home from work on the construction site, his clothes were always dirty	When he got home from work on the construction site, his clothes were always dirty	 dirty	2.5627743444679405	1
+Kevin propped his head up with a pillow as he basked in the hot sun	Kevin propped his head up with a pillow as he basked in the hot sun	 sun	1.1248204487418587	1
+He bought it without even asking the price	He bought it without even asking the price	 price	1.6612483832336549	1
+Barry has considered proposing to his girlfriend, but he wants to wait until he is ready	Barry has considered proposing to his girlfriend, but he wants to wait until he is ready	 ready	3.1713204521743568	1
+John was disappointed to discover a scratch on his new car	John was disappointed to discover a scratch on his new car	 car	3.080716144886517	1
+He was afraid that doing drugs would damage his brain	He was afraid that doing drugs would damage his brain	 brain	3.5492828743382234	1
+They've been living together for a long time, but don't think they're actually married	They've been living together for a long time, but don't think they're actually married	 married	1.8438930098009096	1
+Dennis the Menance was known for making trouble	Dennis the Menance was known for making trouble	 trouble	7.274598214889959	1
+When the shooting started they ran for cover	When the shooting started they ran for cover	 cover	0.8528367260763726	1
+The federal agents examined the hundred dollar bill with a microscope to see if it was real	The federal agents examined the hundred dollar bill with a microscope to see if it was real	 real	2.047112149890912	1
+Eva turned down the heat and left the sauce on the stove to simmer	Eva turned down the heat and left the sauce on the stove to simmer	 simmer	2.052235950659512	1
+Alone in the canyon, he was so spooked he was scared by his own shadow	Alone in the canyon, he was so spooked he was scared by his own shadow	 shadow	2.2913005222386227	1
+Betsy could never tell a lie	Betsy could never tell a lie	 lie	0.6223662918901016	1
+The bad boy was sent to his room	The bad boy was sent to his room	 room	2.1613695841446745	1
+The Vietnam vet had received the Purple Heart, and when he took off his shirt you could see all of his scars	The Vietnam vet had received the Purple Heart, and when he took off his shirt you could see all of his scars	 scars	1.7606731140403309	1
+Trying to evade their captors, the escaped prisoners of war lived in constant fear	Trying to evade their captors, the escaped prisoners of war lived in constant fear	 fear	0.15119020607234746	1
+The tip of the knife was sharp	The tip of the knife was sharp	 sharp	3.0803354790916853	1
+The little girl pulled on the rubber band to see how far it would stretch	The little girl pulled on the rubber band to see how far it would stretch	 stretch	1.2776778716299872	1
+The soldiers had special night vision goggles so they could see the enemy	The soldiers had special night vision goggles so they could see the enemy	 enemy	2.3239453387493985	1
+George was born into a wealthy family and has no idea what it's like to be poor	George was born into a wealthy family and has no idea what it's like to be poor	 poor	1.0915957276258976	1
+Looking for bats, Karen descended into the depths of the cave	Looking for bats, Karen descended into the depths of the cave	 cave	2.62860714753816	1
+We finally got a decent picture on the TV after an hour of adjusting the antenna	We finally got a decent picture on the TV after an hour of adjusting the antenna	 antenna	5.304347691858455	1
+It took a week to get his car fixed because the parts were out of stock	It took a week to get his car fixed because the parts were out of stock	 stock	0.5076213679167142	1
+The dispute was settled by a third party	The dispute was settled by a third party	 party	1.8990587988031813	1
+Our guests should be arriving soon	Our guests should be arriving soon	 soon	3.4812976977310437	1
+The dough was put in the hot oven	The dough was put in the hot oven	 oven	1.9764573367846416	1
+Andrew was glad that the meeting was very short	Andrew was glad that the meeting was very short	 short	1.4415985784135763	1
+When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour bus	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour bus	 bus	0.024418857518661508	1
+Most shark attacks occur very close to shore	Most shark attacks occur very close to shore	 shore	0.32684301337438965	1
+He didn't have to spend much money on the car because he found an incredible deal	He didn't have to spend much money on the car because he found an incredible deal	 deal	0.9229654268123156	1
+The wealthy child went to a private school	The wealthy child went to a private school	 school	0.4438945408654285	1
+When you go to bed, turn off the lights	When you go to bed, turn off the lights	 lights	1.4479090123371567	1
+George must keep his pet on a leash	George must keep his pet on a leash	 leash	0.5425428628343613	2
+He didn't have time to file everything on his desk, so he organized it into two piles	He didn't have time to file everything on his desk, so he organized it into two piles	 piles	0.7091747285897658	1
+The whole town came to hear their mayor speak	The whole town came to hear their mayor speak	 speak	1.8153486344034468	1
+Josie found she could not bend the elbow of her broken arm	Josie found she could not bend the elbow of her broken arm	 arm	0.6554847810068793	1
+It's hard to admit when one is wrong	It's hard to admit when one is wrong	 wrong	2.174576929132911	1
+Vic asked her to repeat what she had said	Vic asked her to repeat what she had said	 said	1.0797866408798091	1
+When they were in London they visited Buckingham palace	When they were in London they visited Buckingham palace	 palace	4.19568767291134	1
+The agent was sent to South America on a secret mission	The agent was sent to South America on a secret mission	 mission	0.18326098548965056	1
+Sam knew that rain was coming because he could smell it in the air	Sam knew that rain was coming because he could smell it in the air	 air	0.15483832355837274	1
+His boss refused to give him a raise	His boss refused to give him a raise	 raise	1.6353203095513735	1
+She flew in late last night and really didn't get much sleep	She flew in late last night and really didn't get much sleep	 sleep	0.3626171953855786	1
+After a week, they gave up on the missing hikers and called off the search	After a week, they gave up on the missing hikers and called off the search	 search	0.08882623943100845	1
+Henry was surprised to find he wouldn't be promoted for his day to day performance, but needed a major bonus	Henry was surprised to find he wouldn't be promoted for his day to day performance, but needed a major bonus	 bonus	6.608637424792201	1
+The cigar burned a hole in the sofa	The cigar burned a hole in the sofa	 sofa	6.788807455395068	1
+His first film was a failure, but he learned some techniques in that first effort	His first film was a failure, but he learned some techniques in that first effort	 effort	5.1433549436811665	1
+He was hired for the job because of his fresh new image	He was hired for the job because of his fresh new image	 image	4.230205247729509	1
+The journal issue that has the new article about diseases of the eye is still in press	The journal issue that has the new article about diseases of the eye is still in press	 press	3.0393022353116392	1
+Every spring they held the annual dance	Every spring they held the annual dance	 dance	6.712203128533579	1
+Penelope started to assemble her new bicycle, but was missing the tires	Penelope started to assemble her new bicycle, but was missing the tires	 tires	8.567434800355567	1
+The restaurant will reopen with new ownership	The restaurant will reopen with new ownership	 ownership	4.9482380075211765	1
+Jennifer disliked walking under the trees at the edge of the park because they were always full of insects	Jennifer disliked walking under the trees at the edge of the park because they were always full of insects	 insects	3.91313158698472	1
+The painting had a strong impact on everyone, but they couldn't agree on whether it was ugly or attractive	The painting had a strong impact on everyone, but they couldn't agree on whether it was ugly or attractive	 attractive	5.759510762054214	1
+I don't know why people like to see their initials in ink	I don't know why people like to see their initials in ink	 ink	6.590359953624527	1
+The gem cutter examined the ruby very closely before cutting because he knew that one this large was very unique	The gem cutter examined the ruby very closely before cutting because he knew that one this large was very unique	 unique	5.081890643401214	1
+They couldn't decide whether to visit the Roman fort or the ruins of Aphrodite's shrine	They couldn't decide whether to visit the Roman fort or the ruins of Aphrodite's shrine	 shrine	5.745392483121713	1
+He took a job training dogs for the military	He took a job training dogs for the military	 military	4.7925104726863	1
+The conductor gave detailed instructions to the choir	The conductor gave detailed instructions to the choir	 choir	5.939061796558891	1
+Down in the basement, Steve and Robert were playing poker	Down in the basement, Steve and Robert were playing poker	 poker	4.724292293170309	1
+After the most recent price increase, the small business owner decided to order his office supplies from another business	After the most recent price increase, the small business owner decided to order his office supplies from another business	 business	3.6311123749613636	1
+Sharon was sad that she had lost her puppy	Sharon was sad that she had lost her puppy	 puppy	5.867800782561817	1
+All of armed services will admit women, but females are barred from fighting	All of armed services will admit women, but females are barred from fighting	 fighting	4.786645034647006	1
+After the divorce, she had to move out of the expensive house to an apartment that was affordable	After the divorce, she had to move out of the expensive house to an apartment that was affordable	 affordable	5.403493762619999	1
+His tactics usually turned out to be beneficial for the business, but they often came in conflict with his values	His tactics usually turned out to be beneficial for the business, but they often came in conflict with his values	 values	3.520059855863656	1
+Some of his jokes were crummy, but those one-liners were humorous	Some of his jokes were crummy, but those one-liners were humorous	 humorous	7.8161549852738155	2
+The inspector from the health department found a roach in a very expensive cafe	The inspector from the health department found a roach in a very expensive cafe	 cafe	8.75684032195838	1
+The conductor had no idea that the train had been boarded by a known convict	The conductor had no idea that the train had been boarded by a known convict	 convict	7.2355373469554065	1
+The nurse brought him a glass of juice and his pills	The nurse brought him a glass of juice and his pills	 pills	6.0203154154613125	1
+The teacher was not looking forward to another year of classes	The teacher was not looking forward to another year of classes	 classes	5.014128015365486	1
+Steve skipped his annual checkup for another month	Steve skipped his annual checkup for another month	 month	3.45613587234546	1
+The candidate wanted to please everyone without making any commitments, so his speech was deliberately ambiguous	The candidate wanted to please everyone without making any commitments, so his speech was deliberately ambiguous	 ambiguous	4.4347367799850925	1
+She poured water on the roses	She poured water on the roses	 roses	6.998606824376693	1
+Mark liked the older houses, but Susan wanted to buy one that was new and contemporary	Mark liked the older houses, but Susan wanted to buy one that was new and contemporary	 contemporary	4.790089463115038	1
+In an old sitcom, he was the wise family physician	In an old sitcom, he was the wise family physician	 physician	3.975763278784667	1
+The government controlled the news media, so most of the reports from the war zone were screened	The government controlled the news media, so most of the reports from the war zone were screened	 screened	8.874866865900849	1
+Grinning wherever he went, it was easy to tell that Carl was proud of his new gold trophy	Grinning wherever he went, it was easy to tell that Carl was proud of his new gold trophy	 trophy	7.250446726381853	1
+During the summer, the children hung out at the lake	During the summer, the children hung out at the lake	 lake	4.675175481956506	1
+The handsome knight charged into the dark forest after the kidnapped princess, determined to prove that he could be courageous	The handsome knight charged into the dark forest after the kidnapped princess, determined to prove that he could be courageous	 courageous	9.029517966996773	2
+The little girl kept a lock on her journal	The little girl kept a lock on her journal	 journal	9.32236154636717	1
+Flying low above her, Bernice could hear the jet	Flying low above her, Bernice could hear the jet	 jet	10.109585710724216	1
+Perry heard a grinding noise coming from his engine	Perry heard a grinding noise coming from his engine	 engine	6.505271123623477	1
+If Jim's manager is incompetent, he has a legitimate right to argue	If Jim's manager is incompetent, he has a legitimate right to argue	 argue	7.043282736723588	1
+In the best part of the movie, the hero has to impersonate the criminal	In the best part of the movie, the hero has to impersonate the criminal	 criminal	5.782010639552702	1
+The princess wore a hat	The princess wore a hat	 hat	5.871307548041477	1
+Jason was disappointed when the other scouts scared off the elk by loudly beating the pans	Jason was disappointed when the other scouts scared off the elk by loudly beating the pans	 pans	9.787534251918332	1
+After the flood, the house smelled of mildew and everything in it was destroyed	After the flood, the house smelled of mildew and everything in it was destroyed	 destroyed	5.4410201873034385	1
+Everyone on the scene gathered around to look at the crash	Everyone on the scene gathered around to look at the crash	 crash	6.5122616399609825	1
+The final score of the game was even	The final score of the game was even	 even	6.1100232872528855	1
+After swimming the English Channel, Bonita was cold and completely beat	After swimming the English Channel, Bonita was cold and completely beat	 beat	7.080295082479683	1
+She had the data to back up everything she said, so the hostile questions did not shake her composure	She had the data to back up everything she said, so the hostile questions did not shake her composure	 composure	6.610402535671297	2
+The new dress was very pretty, but it was cut from an unusual material	The new dress was very pretty, but it was cut from an unusual material	 material	1.1502090917273509	1
+When the little girl saw the big dog lumbering towards her, she began to flee	When the little girl saw the big dog lumbering towards her, she began to flee	 flee	7.4837823836745185	1
+From her house a half mile away, Diana could still hear the loud cheers coming from the stands	From her house a half mile away, Diana could still hear the loud cheers coming from the stands	 stands	3.1392611375335835	1
+Five ships did not survive the tsunami	Five ships did not survive the tsunami	 tsunami	6.1683043409724725	2
+The paramedics on the scene helped the passengers after the big car wreck	The paramedics on the scene helped the passengers after the big car wreck	 wreck	4.6758162274209205	1
+The pilot spoke to an air traffic controller just before the collision	The pilot spoke to an air traffic controller just before the collision	 collision	3.4242013889949705	1
+The boy scouts started a long hike through the forest after having a big dinner	The boy scouts started a long hike through the forest after having a big dinner	 dinner	2.8812584000581913	1
+When traveling, Roger prefers to stick to major streets	When traveling, Roger prefers to stick to major streets	 streets	6.985774847555682	1
+While hemming a pair of pants, Bridget accidentally dropped her pin	While hemming a pair of pants, Bridget accidentally dropped her pin	 pin	9.436666601600956	1
+The rangers say that somewhere in the state park is a cub	The rangers say that somewhere in the state park is a cub	 cub	9.937951484137269	1
+The doctor told him his headaches were due to tension	The doctor told him his headaches were due to tension	 tension	5.538658635350763	1
+The groups in the parade walked by slowly, each waving their arms	The groups in the parade walked by slowly, each waving their arms	 arms	2.2734060368296203	1
+The little girl was very sick, but unfortunately there was no remedy	The little girl was very sick, but unfortunately there was no remedy	 remedy	5.6702879964039425	1
+The meteor shower should have been spectacular, but the city lights blocked the sight	The meteor shower should have been spectacular, but the city lights blocked the sight	 sight	4.393194215859738	1
+She was unsure how the book would conclude	She was unsure how the book would conclude	 conclude	6.337844766348356	1
+He was desperate for a job, so finally took something doing door to door solicitation	He was desperate for a job, so finally took something doing door to door solicitation	 solicitation	10.812444061291066	2
+The young doctor wanted to work in the barrio so she set to work learning the Spanish translations of common medical words	The young doctor wanted to work in the barrio so she set to work learning the Spanish translations of common medical words	 words	3.2147686518804286	1
+Even though she was blindfolded, Jessie could tell from their voices that one of the kidnapers was old and two were older	Even though she was blindfolded, Jessie could tell from their voices that one of the kidnapers was old and two were older	 older	5.8095661583748015	1
+In the window, they posted the hours they were open for service	In the window, they posted the hours they were open for service	 service	6.392924435116898	1
+They sent the kids with measles home from school because they were infectious	They sent the kids with measles home from school because they were infectious	 infectious	7.787384916191338	1
+Outside, Cora could hear the running river	Outside, Cora could hear the running river	 river	6.376476932174327	1
+At night they often took a short stroll	At night they often took a short stroll	 stroll	3.0357953719248827	1
+The wealthy author always points out that she wrote four novels before one was printed	The wealthy author always points out that she wrote four novels before one was printed	 printed	7.082042264893483	1
+The kitten waited patiently because behind the refrigerator was a rat	The kitten waited patiently because behind the refrigerator was a rat	 rat	7.637837824073559	1
+Norton hates getting up on winter mornings because it is always chilly	Norton hates getting up on winter mornings because it is always chilly	 chilly	3.8919930257771136	2
+The fertilizer enriched the dirt	The fertilizer enriched the dirt	 dirt	9.913917141214313	1
+The young girl passed her friend a letter	The young girl passed her friend a letter	 letter	5.043710539417932	1
+He tinkered with the engine every weekend until it was absolutely correct	He tinkered with the engine every weekend until it was absolutely correct	 correct	5.589454066154556	1
+When Diane heard the shark warning, she swam as fast as she could for land	When Diane heard the shark warning, she swam as fast as she could for land	 land	7.078379529803591	1
+Michael could hear the bells ringing in the tower of the cathedral	Michael could hear the bells ringing in the tower of the cathedral	 cathedral	3.0496759513515586	1
+When he got home from work on the construction site, his clothes were always filthy	When he got home from work on the construction site, his clothes were always filthy	 filthy	4.5705868444679405	1
+Kevin propped his head up with a pillow as he basked in the hot lamp	Kevin propped his head up with a pillow as he basked in the hot lamp	 lamp	10.52716419874186	1
+He bought it without even asking the cost	He bought it without even asking the cost	 cost	4.926873383233655	1
+Barry has considered proposing to his girlfriend, but he wants to wait until he is prepared	Barry has considered proposing to his girlfriend, but he wants to wait until he is prepared	 prepared	6.601007952174357	1
+John was disappointed to discover a scratch on his new truck	John was disappointed to discover a scratch on his new truck	 truck	5.811184894886518	1
+He was afraid that doing drugs would damage his mind	He was afraid that doing drugs would damage his mind	 mind	5.057095374338223	1
+They've been living together for a long time, but don't think they're actually engaged	They've been living together for a long time, but don't think they're actually engaged	 engaged	4.406393009800911	1
+Dennis the Menance was known for making mischief	Dennis the Menance was known for making mischief	 mischief	6.854396930425692	2
+When the shooting started they ran for shelter	When the shooting started they ran for shelter	 shelter	4.321586726076372	1
+The federal agents examined the hundred dollar bill with a microscope to see if it was genuine	The federal agents examined the hundred dollar bill with a microscope to see if it was genuine	 genuine	3.3596121498909124	1
+Eva turned down the heat and left the sauce on the stove to cook	Eva turned down the heat and left the sauce on the stove to cook	 cook	2.653798450659512	1
+Alone in the canyon, he was so spooked he was scared by his own reflection	Alone in the canyon, he was so spooked he was scared by his own reflection	 reflection	2.3459880222386222	1
+Betsy could never tell a fib	Betsy could never tell a fib	 fib	6.059866291890103	1
+The bad boy was sent to his bedroom	The bad boy was sent to his bedroom	 bedroom	5.6613695841446745	1
+The Vietnam vet had received the Purple Heart, and when he took off his shirt you could see all of his wounds	The Vietnam vet had received the Purple Heart, and when he took off his shirt you could see all of his wounds	 wounds	4.932548114040332	1
+Trying to evade their captors, the escaped prisoners of war lived in constant terror	Trying to evade their captors, the escaped prisoners of war lived in constant terror	 terror	3.369940206072348	1
+The tip of the knife was pointed	The tip of the knife was pointed	 pointed	4.314710479091685	1
+The little girl pulled on the rubber band to see how far it would extend	The little girl pulled on the rubber band to see how far it would extend	 extend	4.793302871629988	1
+The soldiers had special night vision goggles so they could see the invaders	The soldiers had special night vision goggles so they could see the invaders	 invaders	8.445637153595813	2
+George was born into a wealthy family and has no idea what it's like to be needy	George was born into a wealthy family and has no idea what it's like to be needy	 needy	10.362136665274678	2
+Looking for bats, Karen descended into the depths of the cavern	Looking for bats, Karen descended into the depths of the cavern	 cavern	4.80048214753816	1
+We finally got a decent picture on the TV after an hour of adjusting the wires	We finally got a decent picture on the TV after an hour of adjusting the wires	 wires	8.593410191858455	1
+It took a week to get his car fixed because the parts were out of supply	It took a week to get his car fixed because the parts were out of supply	 supply	6.866996367916714	1
+The dispute was settled by a third person	The dispute was settled by a third person	 person	4.375621298803181	1
+Our guests should be arriving shortly	Our guests should be arriving shortly	 shortly	3.0594226977310446	1
+The dough was put in the hot stove	The dough was put in the hot stove	 stove	6.648332336784643	1
+Andrew was glad that the meeting was very brief	Andrew was glad that the meeting was very brief	 brief	2.2540985784135765	1
+When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour van	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour van	 van	5.891606357518661	1
+Most shark attacks occur very close to land	Most shark attacks occur very close to land	 land	3.67059301337439	1
+He didn't have to spend much money on the car because he found an incredible bargain	He didn't have to spend much money on the car because he found an incredible bargain	 bargain	3.454215426812316	1
+The wealthy child went to a private college	The wealthy child went to a private college	 college	5.240769540865428	1
+When you go to bed, turn off the lamp	When you go to bed, turn off the lamp	 lamp	4.494784012337156	1
+George must keep his pet on a chain	George must keep his pet on a chain	 chain	3.8392449450970227	1
+He didn't have time to file everything on his desk, so he organized it into two stacks	He didn't have time to file everything on his desk, so he organized it into two stacks	 stacks	3.912299728589766	1
+The whole town came to hear their mayor talk	The whole town came to hear their mayor talk	 talk	2.651286134403447	1
+Josie found she could not bend the elbow of her broken limb	Josie found she could not bend the elbow of her broken limb	 limb	5.764859781006878	1
+It's hard to admit when one is incorrect	It's hard to admit when one is incorrect	 incorrect	8.276139429132911	1
+Vic asked her to repeat what she had uttered	Vic asked her to repeat what she had uttered	 uttered	8.939161640879806	1
+When they were in London they visited Buckingham castle	When they were in London they visited Buckingham castle	 castle	9.52381267291134	1
+The agent was sent to South America on a secret assignment	The agent was sent to South America on a secret assignment	 assignment	2.5504484854896505	1
+Sam knew that rain was coming because he could smell it in the wind	Sam knew that rain was coming because he could smell it in the wind	 wind	4.436088323558373	1
+His boss refused to give him a bonus	His boss refused to give him a bonus	 bonus	5.650945309551372	1
+She flew in late last night and really didn't get much rest	She flew in late last night and really didn't get much rest	 rest	3.9876171953855786	1
+After a week, they gave up on the missing hikers and called off the hunt	After a week, they gave up on the missing hikers and called off the hunt	 hunt	4.471638739431008	1
+Henry was surprised to find he wouldn't be promoted for his day to day performance, but needed a major project	Henry was surprised to find he wouldn't be promoted for his day to day performance, but needed a major project	 project	4.936762424792201	1
+The cigar burned a hole in the jacket	The cigar burned a hole in the jacket	 jacket	7.562244955395068	1
+His first film was a failure, but he learned some techniques in that first role	His first film was a failure, but he learned some techniques in that first role	 role	4.5261674436811665	1
+He was hired for the job because of his fresh new ideas	He was hired for the job because of his fresh new ideas	 ideas	2.6520802477295082	1
+The journal issue that has the new article about diseases of the eye is still in stores	The journal issue that has the new article about diseases of the eye is still in stores	 stores	8.72289598531164	1
+Every spring they held the annual meeting	Every spring they held the annual meeting	 meeting	4.903609378533579	1
+Penelope started to assemble her new bicycle, but was missing the instructions	Penelope started to assemble her new bicycle, but was missing the instructions	 instructions	6.887747300355568	1
+The restaurant will reopen with new menus	The restaurant will reopen with new menus	 menus	3.2138630075211765	1
+Jennifer disliked walking under the trees at the edge of the park because they were always full of sap	Jennifer disliked walking under the trees at the edge of the park because they were always full of sap	 sap	8.00297533698472	1
+The painting had a strong impact on everyone, but they couldn't agree on whether it was ugly or abstract	The painting had a strong impact on everyone, but they couldn't agree on whether it was ugly or abstract	 abstract	7.876698262054214	1
+I don't know why people like to see their initials in cement	I don't know why people like to see their initials in cement	 cement	10.129422453624528	1
+The gem cutter examined the ruby very closely before cutting because he knew that one this large was very fragile	The gem cutter examined the ruby very closely before cutting because he knew that one this large was very fragile	 fragile	4.183453143401215	1
+They couldn't decide whether to visit the Roman fort or the ruins of Aphrodite's statue	They couldn't decide whether to visit the Roman fort or the ruins of Aphrodite's statue	 statue	6.764923733121713	1
+He took a job training dogs for the disabled	He took a job training dogs for the disabled	 disabled	7.9800104726863	1
+The conductor gave detailed instructions to the engineer	The conductor gave detailed instructions to the engineer	 engineer	5.341405546558891	1
+Down in the basement, Steve and Robert were playing music	Down in the basement, Steve and Robert were playing music	 music	4.458667293170309	1
+After the most recent price increase, the small business owner decided to order his office supplies from another country	After the most recent price increase, the small business owner decided to order his office supplies from another country	 country	6.443612374961363	1
+Sharon was sad that she had lost her keys	Sharon was sad that she had lost her keys	 keys	8.734988282561819	1
+All of armed services will admit women, but females are barred from ships	All of armed services will admit women, but females are barred from ships	 ships	9.591332534647004	1
+After the divorce, she had to move out of the expensive house to an apartment that was ugly	After the divorce, she had to move out of the expensive house to an apartment that was ugly	 ugly	9.92693126262	1
+His tactics usually turned out to be beneficial for the business, but they often came in conflict with his marriage	His tactics usually turned out to be beneficial for the business, but they often came in conflict with his marriage	 marriage	8.773966105863655	1
+Some of his jokes were crummy, but those one-liners were terrible	Some of his jokes were crummy, but those one-liners were terrible	 terrible	7.728928739101968	1
+The inspector from the health department found a roach in a very expensive meal	The inspector from the health department found a roach in a very expensive meal	 meal	7.120121571958381	1
+The conductor had no idea that the train had been boarded by a known politician	The conductor had no idea that the train had been boarded by a known politician	 politician	9.415224846955407	1
+The nurse brought him a glass of juice and his pillow	The nurse brought him a glass of juice and his pillow	 pillow	8.164846665461312	1
+The teacher was not looking forward to another year of chaos	The teacher was not looking forward to another year of chaos	 chaos	7.920378015365486	1
+Steve skipped his annual checkup for another event	Steve skipped his annual checkup for another event	 event	9.667073372345461	1
+The candidate wanted to please everyone without making any commitments, so his speech was deliberately short	The candidate wanted to please everyone without making any commitments, so his speech was deliberately short	 short	2.8878617799850934	1
+She poured water on the dishes	She poured water on the dishes	 dishes	7.287669324376693	1
+Mark liked the older houses, but Susan wanted to buy one that was new and expensive	Mark liked the older houses, but Susan wanted to buy one that was new and expensive	 expensive	5.805714463115038	1
+In an old sitcom, he was the wise family neighbor	In an old sitcom, he was the wise family neighbor	 neighbor	5.678888278784669	1
+The government controlled the news media, so most of the reports from the war zone were wrong	The government controlled the news media, so most of the reports from the war zone were wrong	 wrong	6.0897106159008505	1
+Grinning wherever he went, it was easy to tell that Carl was proud of his new gold tooth	Grinning wherever he went, it was easy to tell that Carl was proud of his new gold tooth	 tooth	3.6449779763818526	1
+During the summer, the children hung out at the theatre	During the summer, the children hung out at the theatre	 theatre	8.249394231956506	1
+The handsome knight charged into the dark forest after the kidnapped princess, determined to prove that he could be king	The handsome knight charged into the dark forest after the kidnapped princess, determined to prove that he could be king	 king	4.330793943327714	1
+The little girl kept a lock on her bicycle	The little girl kept a lock on her bicycle	 bicycle	5.888767796367169	1
+Flying low above her, Bernice could hear the bees	Flying low above her, Bernice could hear the bees	 bees	7.925991960724218	1
+Perry heard a grinding noise coming from his jaw	Perry heard a grinding noise coming from his jaw	 jaw	10.270896123623476	1
+If Jim's manager is incompetent, he has a legitimate right to leave	If Jim's manager is incompetent, he has a legitimate right to leave	 leave	5.824532736723588	1
+In the best part of the movie, the hero has to impersonate the princess	In the best part of the movie, the hero has to impersonate the princess	 princess	6.961698139552702	1
+The princess wore a gown	The princess wore a gown	 gown	3.621307548041477	1
+Jason was disappointed when the other scouts scared off the elk by loudly beating the bushes	Jason was disappointed when the other scouts scared off the elk by loudly beating the bushes	 bushes	2.467221751918332	1
+After the flood, the house smelled of mildew and everything in it was damp	After the flood, the house smelled of mildew and everything in it was damp	 damp	3.058207687303438	1
+Everyone on the scene gathered around to look at the celebrity	Everyone on the scene gathered around to look at the celebrity	 celebrity	8.965386639960983	1
+The final score of the game was posted	The final score of the game was posted	 posted	7.813148287252885	1
+After swimming the English Channel, Bonita was cold and completely blue	After swimming the English Channel, Bonita was cold and completely blue	 blue	7.939670082479683	1
+She had the data to back up everything she said, so the hostile questions did not shake her opinion	She had the data to back up everything she said, so the hostile questions did not shake her opinion	 opinion	6.945694770985721	1
+The new dress was very pretty, but it was cut from an unusual pattern	The new dress was very pretty, but it was cut from an unusual pattern	 pattern	4.400209091727351	1
+When the little girl saw the big dog lumbering towards her, she began to smile	When the little girl saw the big dog lumbering towards her, she began to smile	 smile	6.546282383674519	1
+From her house a half mile away, Diana could still hear the loud cheers coming from the parade	From her house a half mile away, Diana could still hear the loud cheers coming from the parade	 parade	6.697854887533584	1
+Five ships did not survive the battle	Five ships did not survive the battle	 battle	5.527838661118387	1
+The paramedics on the scene helped the passengers after the big car exploded	The paramedics on the scene helped the passengers after the big car exploded	 exploded	5.1367537274209205	1
+The pilot spoke to an air traffic controller just before the takeoff	The pilot spoke to an air traffic controller just before the takeoff	 takeoff	5.8835326716528495	2
+The boy scouts started a long hike through the forest after having a big meeting	The boy scouts started a long hike through the forest after having a big meeting	 meeting	5.037508400058192	1
+When traveling, Roger prefers to stick to major airlines	When traveling, Roger prefers to stick to major airlines	 airlines	2.2357748475556813	1
+While hemming a pair of pants, Bridget accidentally dropped her glasses	While hemming a pair of pants, Bridget accidentally dropped her glasses	 glasses	6.385885351600955	1
+The rangers say that somewhere in the state park is a mine	The rangers say that somewhere in the state park is a mine	 mine	7.074670234137269	1
+The doctor told him his headaches were due to tumors	The doctor told him his headaches were due to tumors	 tumors	8.702721135350764	1
+The groups in the parade walked by slowly, each waving their banners	The groups in the parade walked by slowly, each waving their banners	 banners	4.818180887731557	2
+The little girl was very sick, but unfortunately there was no hospital	The little girl was very sick, but unfortunately there was no hospital	 hospital	4.810912996403942	1
+The meteor shower should have been spectacular, but the city lights blocked the sky	The meteor shower should have been spectacular, but the city lights blocked the sky	 sky	3.1510067158597383	1
+She was unsure how the book would sell	She was unsure how the book would sell	 sell	4.345657266348357	1
+He was desperate for a job, so finally took something doing door to door delivery	He was desperate for a job, so finally took something doing door to door delivery	 delivery	7.734492350445795	1
+The young doctor wanted to work in the barrio so she set to work learning the Spanish translations of common medical procedures	The young doctor wanted to work in the barrio so she set to work learning the Spanish translations of common medical procedures	 procedures	3.3319561518804286	1
+Even though she was blindfolded, Jessie could tell from their voices that one of the kidnapers was old and two were female	Even though she was blindfolded, Jessie could tell from their voices that one of the kidnapers was old and two were female	 female	5.5283161583748015	1
+In the window, they posted the hours they were open for today	In the window, they posted the hours they were open for today	 today	4.111674435116897	1
+They sent the kids with measles home from school because they were scratching	They sent the kids with measles home from school because they were scratching	 scratching	7.404572416191338	1
+Outside, Cora could hear the running horses	Outside, Cora could hear the running horses	 horses	6.642101932174327	1
+At night they often took a short swim	At night they often took a short swim	 swim	6.637357871924883	1
+The wealthy author always points out that she wrote four novels before one was banned	The wealthy author always points out that she wrote four novels before one was banned	 banned	9.003917264893483	1
+The kitten waited patiently because behind the refrigerator was a ball	The kitten waited patiently because behind the refrigerator was a ball	 ball	9.10658782407356	1
+Norton hates getting up on winter mornings because it is always dark	Norton hates getting up on winter mornings because it is always dark	 dark	2.8624303728582485	1
+The fertilizer enriched the plants	The fertilizer enriched the plants	 plants	5.449073391214311	1
+The young girl passed her friend a doll	The young girl passed her friend a doll	 doll	6.44996053941793	1
+He tinkered with the engine every weekend until it was absolutely ruined	He tinkered with the engine every weekend until it was absolutely ruined	 ruined	7.323829066154556	1
+When Diane heard the shark warning, she swam as fast as she could for safety	When Diane heard the shark warning, she swam as fast as she could for safety	 safety	2.5627545298035908	1
+Michael could hear the bells ringing in the tower of the castle	Michael could hear the bells ringing in the tower of the castle	 castle	4.651238451351559	1
+When he got home from work on the construction site, his clothes were always torn	When he got home from work on the construction site, his clothes were always torn	 torn	5.6799618444679405	1
+Kevin propped his head up with a pillow as he basked in the hot tub	Kevin propped his head up with a pillow as he basked in the hot tub	 tub	2.6795079487418585	1
+He bought it without even asking the boss	He bought it without even asking the boss	 boss	6.317498383233656	1
+Barry has considered proposing to his girlfriend, but he wants to wait until he is older	Barry has considered proposing to his girlfriend, but he wants to wait until he is older	 older	4.280695452174357	1
+John was disappointed to discover a scratch on his new watch	John was disappointed to discover a scratch on his new watch	 watch	4.565091144886519	1
+He was afraid that doing drugs would damage his reputation	He was afraid that doing drugs would damage his reputation	 reputation	4.096157874338223	1
+They've been living together for a long time, but don't think they're actually happy	They've been living together for a long time, but don't think they're actually happy	 happy	4.929830509800911	1
+Dennis the Menance was known for making jokes	Dennis the Menance was known for making jokes	 jokes	4.466004464889959	1
+When the shooting started they ran for help	When the shooting started they ran for help	 help	4.720024226076372	1
+The federal agents examined the hundred dollar bill with a microscope to see if it was contaminated	The federal agents examined the hundred dollar bill with a microscope to see if it was contaminated	 contaminated	5.4689871498909115	1
+Eva turned down the heat and left the sauce on the stove to cool	Eva turned down the heat and left the sauce on the stove to cool	 cool	2.6616109506595116	1
+Alone in the canyon, he was so spooked he was scared by his own horse	Alone in the canyon, he was so spooked he was scared by his own horse	 horse	5.314738022238623	1
+Betsy could never tell a joke	Betsy could never tell a joke	 joke	3.0598662918901014	1
+The bad boy was sent to his principal	The bad boy was sent to his principal	 principal	7.466057084144674	1
+The Vietnam vet had received the Purple Heart, and when he took off his shirt you could see all of his tattoos	The Vietnam vet had received the Purple Heart, and when he took off his shirt you could see all of his tattoos	 tattoos	2.2643123340991296	2
+Trying to evade their captors, the escaped prisoners of war lived in constant hiding	Trying to evade their captors, the escaped prisoners of war lived in constant hiding	 hiding	6.682440206072347	1
+The tip of the knife was broken	The tip of the knife was broken	 broken	5.244397979091685	1
+The little girl pulled on the rubber band to see how far it would fly	The little girl pulled on the rubber band to see how far it would fly	 fly	5.926115371629988	1
+The soldiers had special night vision goggles so they could see the camp	The soldiers had special night vision goggles so they could see the camp	 camp	7.054414088749399	1
+George was born into a wealthy family and has no idea what it's like to be hungry	George was born into a wealthy family and has no idea what it's like to be hungry	 hungry	6.044720727625897	1
+Looking for bats, Karen descended into the depths of the castle	Looking for bats, Karen descended into the depths of the castle	 castle	7.07001339753816	1
+We finally got a decent picture on the TV after an hour of adjusting the contrast	We finally got a decent picture on the TV after an hour of adjusting the contrast	 contrast	6.148097691858455	1
+It took a week to get his car fixed because the parts were out of state	It took a week to get his car fixed because the parts were out of state	 state	7.577933867916714	1
+The dispute was settled by a third vote	The dispute was settled by a third vote	 vote	3.766246298803181	1
+Our guests should be arriving separately	Our guests should be arriving separately	 separately	9.020360197731042	1
+The dough was put in the hot grease	The dough was put in the hot grease	 grease	4.867082336784642	1
+Andrew was glad that the meeting was very productive	Andrew was glad that the meeting was very productive	 productive	1.5040985784135763	1
+When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour group	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour group	 group	8.227543857518661	1
+Most shark attacks occur very close to dusk	Most shark attacks occur very close to dusk	 dusk	10.19403051337439	1
+He didn't have to spend much money on the car because he found an incredible mechanic	He didn't have to spend much money on the car because he found an incredible mechanic	 mechanic	6.504996676812316	1
+The wealthy child went to a private hospital	The wealthy child went to a private hospital	 hospital	3.9048320408654287	1
+When you go to bed, turn off the stereo	When you go to bed, turn off the stereo	 stereo	7.557284012337156	1
+George must keep his pet on a diet	George must keep his pet on a diet	 diet	3.9017449450970227	1
+He didn't have time to file everything on his desk, so he organized it into two boxes	He didn't have time to file everything on his desk, so he organized it into two boxes	 boxes	2.841987228589766	1
+The whole town came to hear their mayor resign	The whole town came to hear their mayor resign	 resign	9.393473634403447	1
+Josie found she could not bend the elbow of her broken doll	Josie found she could not bend the elbow of her broken doll	 doll	7.194547281006878	1
+It's hard to admit when one is lonely	It's hard to admit when one is lonely	 lonely	8.221451929132911	1
+Vic asked her to repeat what she had heard	Vic asked her to repeat what she had heard	 heard	2.9235366408798087	1
+When they were in London they visited Buckingham twice	When they were in London they visited Buckingham twice	 twice	15.111703297911339	1
+The agent was sent to South America on a secret jet	The agent was sent to South America on a secret jet	 jet	8.347323485489651	1
+Sam knew that rain was coming because he could smell it in the morning	Sam knew that rain was coming because he could smell it in the morning	 morning	4.850150823558373	1
+His boss refused to give him a vacation	His boss refused to give him a vacation	 vacation	7.861882809551372	1
+She flew in late last night and really didn't get much dinner	She flew in late last night and really didn't get much dinner	 dinner	9.991523445385578	1
+After a week, they gave up on the missing hikers and called off the helicopters	After a week, they gave up on the missing hikers and called off the helicopters	 helicopters	10.135701239431008	1
+Henry was surprised to find he wouldn't be promoted for his day to day performance, but needed a major pillow	Henry was surprised to find he wouldn't be promoted for his day to day performance, but needed a major pillow	 pillow	11.8996530497922	1
+The cigar burned a hole in the chaos	The cigar burned a hole in the chaos	 chaos	12.45872933039507	1
+His first film was a failure, but he learned some techniques in that first umbrella	His first film was a failure, but he learned some techniques in that first umbrella	 umbrella	17.091597131181167	1
+He was hired for the job because of his fresh new autumn	He was hired for the job because of his fresh new autumn	 autumn	13.77903337272951	1
+The journal issue that has the new article about diseases of the eye is still in treason	The journal issue that has the new article about diseases of the eye is still in treason	 treason	16.678950672811638	1
+Every spring they held the annual disorder	Every spring they held the annual disorder	 disorder	14.97196875353358	1
+Penelope started to assemble her new bicycle, but was missing the king	Penelope started to assemble her new bicycle, but was missing the king	 king	9.751028550355567	1
+The restaurant will reopen with new treason	The restaurant will reopen with new treason	 treason	19.245113007521176	1
+Jennifer disliked walking under the trees at the edge of the park because they were always full of weekends	Jennifer disliked walking under the trees at the edge of the park because they were always full of weekends	 weekends	15.68315111823472	1
+The painting had a strong impact on everyone, but they couldn't agree on whether it was ugly or allergic	The painting had a strong impact on everyone, but they couldn't agree on whether it was ugly or allergic	 allergic	16.939198262054216	1
+I don't know why people like to see their initials in dusk	I don't know why people like to see their initials in dusk	 dusk	16.616727141124528	1
+The gem cutter examined the ruby very closely before cutting because he knew that one this large was very disqualified	The gem cutter examined the ruby very closely before cutting because he knew that one this large was very disqualified	 disqualified	15.031538003897133	2
+They couldn't decide whether to visit the Roman fort or the ruins of Aphrodite's bicycle	They couldn't decide whether to visit the Roman fort or the ruins of Aphrodite's bicycle	 bicycle	13.818634670621712	1
+He took a job training dogs for the blankets	He took a job training dogs for the blankets	 blankets	17.4526667226863	1
+The conductor gave detailed instructions to the dishes	The conductor gave detailed instructions to the dishes	 dishes	13.140966093433892	1
+Down in the basement, Steve and Robert were playing banners	Down in the basement, Steve and Robert were playing banners	 banners	15.975170311819165	2
+After the most recent price increase, the small business owner decided to order his office supplies from another gown	After the most recent price increase, the small business owner decided to order his office supplies from another gown	 gown	16.924081124961365	1
+Sharon was sad that she had lost her takeoff	Sharon was sad that she had lost her takeoff	 takeoff	16.352528432466652	2
+All of armed services will admit women, but females are barred from metal	All of armed services will admit women, but females are barred from metal	 metal	12.343285659647007	1
+After the divorce, she had to move out of the expensive house to an apartment that was fired	After the divorce, she had to move out of the expensive house to an apartment that was fired	 fired	13.10857188762	1
+His tactics usually turned out to be beneficial for the business, but they often came in conflict with his ditch	His tactics usually turned out to be beneficial for the business, but they often came in conflict with his ditch	 ditch	17.805216105863657	1
+Some of his jokes were crummy, but those one-liners were torn	Some of his jokes were crummy, but those one-liners were torn	 torn	12.998459989101967	1
+The inspector from the health department found a roach in a very expensive speech	The inspector from the health department found a roach in a very expensive speech	 speech	12.38086375945838	1
+The conductor had no idea that the train had been boarded by a known bottle	The conductor had no idea that the train had been boarded by a known bottle	 bottle	13.008974846955404	1
+The nurse brought him a glass of juice and his taxis	The nurse brought him a glass of juice and his taxis	 taxis	14.578796559759645	2
+The teacher was not looking forward to another year of cargo	The teacher was not looking forward to another year of cargo	 cargo	16.267057702865483	1
+Steve skipped his annual checkup for another forest	Steve skipped his annual checkup for another forest	 forest	13.176838997345461	1
+The candidate wanted to please everyone without making any commitments, so his speech was deliberately endangered	The candidate wanted to please everyone without making any commitments, so his speech was deliberately endangered	 endangered	15.459150842485093	1
+She poured water on the takeoff	She poured water on the takeoff	 takeoff	15.479433800595155	2
+Mark liked the older houses, but Susan wanted to buy one that was new and embarrassed	Mark liked the older houses, but Susan wanted to buy one that was new and embarrassed	 embarrassed	14.831105088115036	1
+In an old sitcom, he was the wise family highway	In an old sitcom, he was the wise family highway	 highway	14.669122653784669	1
+The government controlled the news media, so most of the reports from the war zone were hungry	The government controlled the news media, so most of the reports from the war zone were hungry	 hungry	13.34166374090085	1
+Grinning wherever he went, it was easy to tell that Carl was proud of his new gold pedestrians	Grinning wherever he went, it was easy to tell that Carl was proud of his new gold pedestrians	 pedestrians	18.930134226381853	1
+During the summer, the children hung out at the gown	During the summer, the children hung out at the gown	 gown	15.640019231956506	1
+The handsome knight charged into the dark forest after the kidnapped princess, determined to prove that he could be chilly	The handsome knight charged into the dark forest after the kidnapped princess, determined to prove that he could be chilly	 chilly	19.585830469951546	2
+The little girl kept a lock on her cement	The little girl kept a lock on her cement	 cement	13.756931858867171	1
+Flying low above her, Bernice could hear the arena	Flying low above her, Bernice could hear the arena	 arena	11.903531023224218	1
+Perry heard a grinding noise coming from his cure	Perry heard a grinding noise coming from his cure	 cure	14.263327764248476	1
+If Jim's manager is incompetent, he has a legitimate right to water	If Jim's manager is incompetent, he has a legitimate right to water	 water	9.832345236723588	1
+In the best part of the movie, the hero has to impersonate the business	In the best part of the movie, the hero has to impersonate the business	 business	9.278104389552704	1
+The princess wore a sound	The princess wore a sound	 sound	10.879120048041477	1
+Jason was disappointed when the other scouts scared off the elk by loudly beating the diamond	Jason was disappointed when the other scouts scared off the elk by loudly beating the diamond	 diamond	12.016049876918332	1
+After the flood, the house smelled of mildew and everything in it was young	After the flood, the house smelled of mildew and everything in it was young	 young	9.862895187303439	1
+Everyone on the scene gathered around to look at the temper	Everyone on the scene gathered around to look at the temper	 temper	12.33355070246098	1
+The final score of the game was bugs	The final score of the game was bugs	 bugs	19.336585787252886	1
+After swimming the English Channel, Bonita was cold and completely affordable	After swimming the English Channel, Bonita was cold and completely affordable	 affordable	16.780246254354687	1
+She had the data to back up everything she said, so the hostile questions did not shake her music	She had the data to back up everything she said, so the hostile questions did not shake her music	 music	12.46913227098572	1
+The new dress was very pretty, but it was cut from an unusual porch	The new dress was very pretty, but it was cut from an unusual porch	 porch	15.063783310477351	1
+When the little girl saw the big dog lumbering towards her, she began to attend	When the little girl saw the big dog lumbering towards her, she began to attend	 attend	12.573626133674516	1
+From her house a half mile away, Diana could still hear the loud cheers coming from the mistakes	From her house a half mile away, Diana could still hear the loud cheers coming from the mistakes	 mistakes	16.938089262533587	1
+Five ships did not survive the eyes	Five ships did not survive the eyes	 eyes	12.541510536118386	1
+The paramedics on the scene helped the passengers after the big car rest	The paramedics on the scene helped the passengers after the big car rest	 rest	14.013706852420919	1
+The pilot spoke to an air traffic controller just before the fortune	The pilot spoke to an air traffic controller just before the fortune	 fortune	16.92420138899497	1
+The boy scouts started a long hike through the forest after having a big end	The boy scouts started a long hike through the forest after having a big end	 end	9.096102150058194	1
+When traveling, Roger prefers to stick to major plants	When traveling, Roger prefers to stick to major plants	 plants	12.927181097555682	1
+While hemming a pair of pants, Bridget accidentally dropped her horse	While hemming a pair of pants, Bridget accidentally dropped her horse	 horse	11.567525976600955	1
+The rangers say that somewhere in the state park is a contrast	The rangers say that somewhere in the state park is a contrast	 contrast	13.469201484137269	1
+The doctor told him his headaches were due to safety	The doctor told him his headaches were due to safety	 safety	13.353111760350766	1
+The groups in the parade walked by slowly, each waving their jokes	The groups in the parade walked by slowly, each waving their jokes	 jokes	13.69039822432962	1
+The little girl was very sick, but unfortunately there was no joke	The little girl was very sick, but unfortunately there was no joke	 joke	11.691772371403944	1
+The meteor shower should have been spectacular, but the city lights blocked the doll	The meteor shower should have been spectacular, but the city lights blocked the doll	 doll	14.674932497109737	1
+She was unsure how the book would camp	She was unsure how the book would camp	 camp	15.205032266348354	1
+He was desperate for a job, so finally took something doing door to door hiding	He was desperate for a job, so finally took something doing door to door hiding	 hiding	13.156367350445795	1
+The young doctor wanted to work in the barrio so she set to work learning the Spanish translations of common medical pedestrians	The young doctor wanted to work in the barrio so she set to work learning the Spanish translations of common medical pedestrians	 pedestrians	20.85734677688043	1
+Even though she was blindfolded, Jessie could tell from their voices that one of the kidnapers was old and two were bullets	Even though she was blindfolded, Jessie could tell from their voices that one of the kidnapers was old and two were bullets	 bullets	14.391597408374803	1
+In the window, they posted the hours they were open for texture	In the window, they posted the hours they were open for texture	 texture	15.621440060116894	1
+They sent the kids with measles home from school because they were hard	They sent the kids with measles home from school because they were hard	 hard	10.244416166191339	1
+Outside, Cora could hear the running chapel	Outside, Cora could hear the running chapel	 chapel	13.923351932174327	1
+At night they often took a short reputation	At night they often took a short reputation	 reputation	14.827787559424882	1
+The wealthy author always points out that she wrote four novels before one was hungry	The wealthy author always points out that she wrote four novels before one was hungry	 hungry	15.734386014893484	1
+The kitten waited patiently because behind the refrigerator was a savior	The kitten waited patiently because behind the refrigerator was a savior	 savior	14.542822863186407	2
+Norton hates getting up on winter mornings because it is always broken	Norton hates getting up on winter mornings because it is always broken	 broken	8.917117872858247	1
+The fertilizer enriched the legs	The fertilizer enriched the legs	 legs	12.079932766214313	1
+The young girl passed her friend a mechanic	The young girl passed her friend a mechanic	 mechanic	12.57300741441793	1
+He tinkered with the engine every weekend until it was absolutely forgiven	He tinkered with the engine every weekend until it was absolutely forgiven	 forgiven	15.100196253654554	1
+When Diane heard the shark warning, she swam as fast as she could for relaxing	When Diane heard the shark warning, she swam as fast as she could for relaxing	 relaxing	15.893053907244994	1
+Michael could hear the bells ringing in the tower of the deer	Michael could hear the bells ringing in the tower of the deer	 deer	12.398308763851556	1
+When he got home from work on the construction site, his clothes were always sick	When he got home from work on the construction site, his clothes were always sick	 sick	11.98074309446794	1
+Kevin propped his head up with a pillow as he basked in the hot size	Kevin propped his head up with a pillow as he basked in the hot size	 size	17.335757948741858	1
+He bought it without even asking the helicopters	He bought it without even asking the helicopters	 helicopters	14.277459320733655	1
+Barry has considered proposing to his girlfriend, but he wants to wait until he is flooded	Barry has considered proposing to his girlfriend, but he wants to wait until he is flooded	 flooded	13.069757952174356	1
+John was disappointed to discover a scratch on his new taxes	John was disappointed to discover a scratch on his new taxes	 taxes	11.589505207386518	1
+He was afraid that doing drugs would damage his fever	He was afraid that doing drugs would damage his fever	 fever	13.229946936838225	1
+They've been living together for a long time, but don't think they're actually people	They've been living together for a long time, but don't think they're actually people	 people	9.66420550980091	1
+Dennis the Menance was known for making apples	Dennis the Menance was known for making apples	 apples	10.708191964889961	1
+When the shooting started they ran for convenience	When the shooting started they ran for convenience	 convenience	11.860649226076374	1
+The federal agents examined the hundred dollar bill with a microscope to see if it was quiet	The federal agents examined the hundred dollar bill with a microscope to see if it was quiet	 quiet	16.25414339989091	1
+Eva turned down the heat and left the sauce on the stove to state	Eva turned down the heat and left the sauce on the stove to state	 state	13.341298450659512	1
+Alone in the canyon, he was so spooked he was scared by his own hospital	Alone in the canyon, he was so spooked he was scared by his own hospital	 hospital	13.113566147238624	1
+Betsy could never tell a ditch	Betsy could never tell a ditch	 ditch	12.3215850418901	1
+The bad boy was sent to his dusk	The bad boy was sent to his dusk	 dusk	14.819938920082176	1
+The Vietnam vet had received the Purple Heart, and when he took off his shirt you could see all of his boxes	The Vietnam vet had received the Purple Heart, and when he took off his shirt you could see all of his boxes	 boxes	11.797782489040332	1
+Trying to evade their captors, the escaped prisoners of war lived in constant size	Trying to evade their captors, the escaped prisoners of war lived in constant size	 size	17.597479268572346	1
+The tip of the knife was chatting	The tip of the knife was chatting	 chatting	13.748304229091685	1
+The little girl pulled on the rubber band to see how far it would yell	The little girl pulled on the rubber band to see how far it would yell	 yell	14.199552871629988	1
+The soldiers had special night vision goggles so they could see the temper	The soldiers had special night vision goggles so they could see the temper	 temper	14.355439479374398	1
+George was born into a wealthy family and has no idea what it's like to be pointed	George was born into a wealthy family and has no idea what it's like to be pointed	 pointed	14.040814477625895	1
+Looking for bats, Karen descended into the depths of the doll	Looking for bats, Karen descended into the depths of the doll	 doll	9.80048214753816	1
+We finally got a decent picture on the TV after an hour of adjusting the ceremonies	We finally got a decent picture on the TV after an hour of adjusting the ceremonies	 ceremonies	14.758205113733457	1
+It took a week to get his car fixed because the parts were out of bread	It took a week to get his car fixed because the parts were out of bread	 bread	12.632621367916714	1
+The dispute was settled by a third lifestyle	The dispute was settled by a third lifestyle	 lifestyle	16.213511923803182	1
+Our guests should be arriving disabled	Our guests should be arriving disabled	 disabled	13.114110197731044	1
+The dough was put in the hot project	The dough was put in the hot project	 project	13.955949524284645	1
+Andrew was glad that the meeting was very pale	Andrew was glad that the meeting was very pale	 pale	12.812692328413574	1
+When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour puppy	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour puppy	 puppy	20.58105948251866	1
+Most shark attacks occur very close to ideas	Most shark attacks occur very close to ideas	 ideas	18.54168676337439	1
+He didn't have to spend much money on the car because he found an incredible stream	He didn't have to spend much money on the car because he found an incredible stream	 stream	10.772574801812317	1
+The wealthy child went to a private material	The wealthy child went to a private material	 material	15.061570322115431	1
+When you go to bed, turn off the stores	When you go to bed, turn off the stores	 stores	15.112459793587155	1
+George must keep his pet on a meeting	George must keep his pet on a meeting	 meeting	10.679088695097024	1
+He didn't have time to file everything on his desk, so he organized it into two cartoons	He didn't have time to file everything on his desk, so he organized it into two cartoons	 cartoons	13.631258706085337	2
+The whole town came to hear their mayor scratch	The whole town came to hear their mayor scratch	 scratch	11.674723634403447	1
+Josie found she could not bend the elbow of her broken absence	Josie found she could not bend the elbow of her broken absence	 absence	14.73165665600688	1
+It's hard to admit when one is screened	It's hard to admit when one is screened	 screened	12.869889429132913	1
+Vic asked her to repeat what she had vanished	Vic asked her to repeat what she had vanished	 vanished	16.15205226587981	1
+When they were in London they visited Buckingham bait	When they were in London they visited Buckingham bait	 bait	22.33435954791134	1
+The agent was sent to South America on a secret cow	The agent was sent to South America on a secret cow	 cow	15.243807860489651	1
+Sam knew that rain was coming because he could smell it in the robbery	Sam knew that rain was coming because he could smell it in the robbery	 robbery	18.576713323558373	1
+His boss refused to give him a cliff	His boss refused to give him a cliff	 cliff	11.828679684551373	1
+She flew in late last night and really didn't get much music	She flew in late last night and really didn't get much music	 music	11.452460945385578	1
+After a week, they gave up on the missing hikers and called off the boss	After a week, they gave up on the missing hikers and called off the boss	 boss	16.697224676931008	1
+The salesman made the mistake of talking down to Jane because he thought she was stupid	The salesman made the mistake of talking down to Jane because he thought she was stupid	 stupid	3.8744033388743486	1
+Water was leaking out from the hole in the ceiling	Water was leaking out from the hole in the ceiling	 ceiling	2.3797958691386425	1
+Rushing out, he forgot to take his coat	Rushing out, he forgot to take his coat	 coat	3.6309172081105787	1
+At that time, the boys lived down by the river in a shack	At that time, the boys lived down by the river in a shack	 shack	3.897362815068561	1
+The salesman made the mistake of talking down to Jane because he thought she was dumb	The salesman made the mistake of talking down to Jane because he thought she was dumb	 dumb	4.897840838874348	1
+Water was leaking out from the hole in the roof	Water was leaking out from the hole in the roof	 roof	2.3407333691386425	1
+Rushing out, he forgot to take his jacket	Rushing out, he forgot to take his jacket	 jacket	5.00591720811058	1
+At that time, the boys lived down by the river in a hut	At that time, the boys lived down by the river in a hut	 hut	2.842675315068561	1
+The salesman made the mistake of talking down to Jane because he thought she was poor	The salesman made the mistake of talking down to Jane because he thought she was poor	 poor	5.390028338874348	1
+Water was leaking out from the hole in the balloon	Water was leaking out from the hole in the balloon	 balloon	8.356358369138643	1
+Rushing out, he forgot to take his umbrella	Rushing out, he forgot to take his umbrella	 umbrella	5.76372970811058	1
+At that time, the boys lived down by the river in a van	At that time, the boys lived down by the river in a van	 van	9.069237815068561	1
+The salesman made the mistake of talking down to Jane because he thought she was abstract	The salesman made the mistake of talking down to Jane because he thought she was abstract	 abstract	14.126356463874346	1
+Water was leaking out from the hole in the reward	Water was leaking out from the hole in the reward	 reward	13.536778291013643	1
+Rushing out, he forgot to take his country	Rushing out, he forgot to take his country	 country	10.00591720811058	1
+At that time, the boys lived down by the river in a letter	At that time, the boys lived down by the river in a letter	 letter	13.37392531506856	1

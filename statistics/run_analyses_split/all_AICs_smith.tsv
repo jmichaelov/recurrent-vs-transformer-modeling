@@ -1,0 +1,15 @@
+Dataset	ModelName	ModelArchitecture	ModelSize	Surprisal_AIC
+Smith and Levy (2013): SPR RT	mamba-130m-hf	mamba	129135360	283082.21396286314
+Smith and Levy (2013): SPR RT	mamba-1_4b-hf	mamba	1372178432	283111.4223165667
+Smith and Levy (2013): SPR RT	mamba-2_8b-hf	mamba	2768345600	283120.5842553935
+Smith and Levy (2013): SPR RT	mamba-370m-hf	mamba	371516416	283112.7202115283
+Smith and Levy (2013): SPR RT	mamba-790m-hf	mamba	793204224	283107.5186128496
+Smith and Levy (2013): SPR RT	pythia-160m	pythia	162322944	283077.2677167555
+Smith and Levy (2013): SPR RT	pythia-1_4b	pythia	1414647808	283115.40476235695
+Smith and Levy (2013): SPR RT	pythia-1b	pythia	1011781632	283109.4858475723
+Smith and Levy (2013): SPR RT	pythia-2_8b	pythia	2775208960	283114.14518392115
+Smith and Levy (2013): SPR RT	pythia-410m	pythia	405334016	283101.14290526486
+Smith and Levy (2013): SPR RT	rwkv-4-169m-pile	rwkv	169342464	283118.0514290041
+Smith and Levy (2013): SPR RT	rwkv-4-1b5-pile	rwkv	1515106304	283107.48391617835
+Smith and Levy (2013): SPR RT	rwkv-4-3b-pile	rwkv	2984627200	283112.9626838341
+Smith and Levy (2013): SPR RT	rwkv-4-430m-pile	rwkv	430397440	283111.7390150456

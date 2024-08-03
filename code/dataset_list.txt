@@ -1,0 +1,7 @@
+../cleaned_stimuli/brothers_2021.stims
+../cleaned_stimuli/futrell_2018_dl.stims
+../cleaned_stimuli/kennedy_2003.stims
+../cleaned_stimuli/luke_2018_dl.stims
+../cleaned_stimuli/michaelov_2023.stims
+../cleaned_stimuli/smith_2013.stims
+../cleaned_stimuli/szewczyk_2022.stims

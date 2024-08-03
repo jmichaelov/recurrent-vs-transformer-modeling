@@ -1,0 +1,649 @@
+FullSentence	Sentence	TargetWords	Surprisal	NumTokens
+In polluted cities, you can barely breathe the air	In polluted cities, you can barely breathe the air	 air	1.7217953261909882	1
+The factory built expensive machines to filter the air	The factory built expensive machines to filter the air	 air	3.227437161431603	1
+They suspected there was something wrong with the air	They suspected there was something wrong with the air	 air	5.574984642870069	1
+The soldier decided to quit the army	The soldier decided to quit the army	 army	2.759702229270499	1
+George chose not to join the army	George chose not to join the army	 army	3.970366269577144	1
+The students were learning about the army	The students were learning about the army	 army	9.104921537410213	1
+My sister enjoys poetry, painting, and other forms of art	My sister enjoys poetry, painting, and other forms of art	 art	2.4860619610943795	1
+Even though she's blind, she appreciates many types of art	Even though she's blind, she appreciates many types of art	 art	4.563877924480836	1
+They hired the consultant because of her knowledge of art	They hired the consultant because of her knowledge of art	 art	7.413206740767761	1
+They stored all of the Halloween decorations up in the attic	They stored all of the Halloween decorations up in the attic	 attic	1.844771799232812	1
+There were a lot of old clothes stored in the attic	There were a lot of old clothes stored in the attic	 attic	2.59056279281462	1
+The accountant put all of the old documents in the attic	The accountant put all of the old documents in the attic	 attic	6.356768419121815	1
+The lumberjack chopped down the tree with his axe	The lumberjack chopped down the tree with his axe	 axe	1.0423581495473333	1
+The man walked into the forest carrying his axe	The man walked into the forest carrying his axe	 axe	4.895078699729604	1
+My father scared away the burglars with his axe	My father scared away the burglars with his axe	 axe	6.868957496385809	1
+The girl bought a pink tutu because she wanted to learn ballet	The girl bought a pink tutu because she wanted to learn ballet	 ballet	4.989648274206121	1
+The girl had never danced before, but she wanted to learn ballet	The girl had never danced before, but she wanted to learn ballet	 ballet	6.362571533041504	1
+The girl was extremely excited that she was going to learn ballet	The girl was extremely excited that she was going to learn ballet	 ballet	6.432270223781773	1
+The man used the helium to inflate the red balloon	The man used the helium to inflate the red balloon	 balloon	2.1395207945090147	1
+It was her birthday, so he bought the red balloon	It was her birthday, so he bought the red balloon	 balloon	5.900274141273487	1
+The woman at the store was buying the red balloon	The woman at the store was buying the red balloon	 balloon	8.359479940340721	1
+The hungry monkey was trying to peel the banana	The hungry monkey was trying to peel the banana	 banana	4.136556764547659	1
+Because of fruit flies, he threw away the banana	Because of fruit flies, he threw away the banana	 banana	7.551785012428764	1
+My picky younger brother refused to eat the banana	My picky younger brother refused to eat the banana	 banana	6.389809902320232	1
+Jenna loved playing the guitar, so she decided to join the band	Jenna loved playing the guitar, so she decided to join the band	 band	1.2086611752260816	1
+On her eighteenth birthday her parents got her tickets see the band	On her eighteenth birthday her parents got her tickets see the band	 band	5.093714518445006	1
+After several rounds of auditions, she never heard back from the band	After several rounds of auditions, she never heard back from the band	 band	5.6970992313699576	1
+The neighborhood dog always kept her awake by barking	The neighborhood dog always kept her awake by barking	 barking	2.50697927498571	2
+Our pets sometimes ask us for treats by barking	Our pets sometimes ask us for treats by barking	 barking	7.768154597004683	2
+They knew that Harry kept her awake by barking	They knew that Harry kept her awake by barking	 barking	8.906374098242631	2
+Instead of a shower, she decided to take a bath	Instead of a shower, she decided to take a bath	 bath	1.7176438203962912	1
+To relax after work, Bill decided to take a bath	To relax after work, Bill decided to take a bath	 bath	4.6164283285386585	1
+That weekend, their interior decorator helped them install a bath	That weekend, their interior decorator helped them install a bath	 bath	7.110965183282803	1
+My son saw the bird pecking at the soil using its beak	My son saw the bird pecking at the soil using its beak	 beak	3.4969023957030285	2
+The bald eagle was trying to attack the hunters using its beak	The bald eagle was trying to attack the hunters using its beak	 beak	3.4187627299061174	2
+The animal in the zoo enclosure was trying to clean its beak	The animal in the zoo enclosure was trying to clean its beak	 beak	5.684081201356378	2
+I asked the maid to change the sheets on the bed	I asked the maid to change the sheets on the bed	 bed	1.3211604362113158	1
+The chief of police found the suicide note on the bed	The chief of police found the suicide note on the bed	 bed	3.659421061032375	1
+There was a large pile of dirty towels on the bed	There was a large pile of dirty towels on the bed	 bed	3.338392868539275	1
+The honey was produced by a hive of bees	The honey was produced by a hive of bees	 bees	1.7402689206472002	1
+She is deathly allergic to those types of bees	She is deathly allergic to those types of bees	 bees	7.63162468198947	1
+The people outside were avoiding the group of bees	The people outside were avoiding the group of bees	 bees	8.54106572435883	1
+To wash your clothes whiter, you should add a little bleach	To wash your clothes whiter, you should add a little bleach	 bleach	4.272272914664581	2
+To kill all the bacteria, you should add a little bleach	To kill all the bacteria, you should add a little bleach	 bleach	5.743081744018808	2
+To prepare the next sample, you should add a little bleach	To prepare the next sample, you should add a little bleach	 bleach	8.18961334436373	2
+The murderer's knife and clothes were covered in blood	The murderer's knife and clothes were covered in blood	 blood	0.8905416371223499	1
+The cafeteria in the prison was covered in blood	The cafeteria in the prison was covered in blood	 blood	2.7918417656309122	1
+The woman's counter and refrigerator were covered in blood	The woman's counter and refrigerator were covered in blood	 blood	4.299283412758482	1
+My favorite part of Spring is when the flowers begin to bloom	My favorite part of Spring is when the flowers begin to bloom	 bloom	0.8092448096698514	1
+The weather's been so nice that the plants have started to bloom	The weather's been so nice that the plants have started to bloom	 bloom	1.939059733245988	1
+We started watering the yard because the plants had begun to bloom	We started watering the yard because the plants had begun to bloom	 bloom	4.5095792312393925	1
+Following his orders, the terrorist threatened to drop the bomb	Following his orders, the terrorist threatened to drop the bomb	 bomb	2.0110982219654265	1
+To destroy the building, they decided to use the bomb	To destroy the building, they decided to use the bomb	 bomb	7.508116365599723	1
+Jonathan was shocked that they decided to use the bomb	Jonathan was shocked that they decided to use the bomb	 bomb	7.733640498449581	1
+The author signed a copy of her new book	The author signed a copy of her new book	 book	0.4551517602965714	1
+The unsuccessful student went to buy a new book	The unsuccessful student went to buy a new book	 book	5.8987900482787845	1
+The landlord who lived downstairs bought a new book	The landlord who lived downstairs bought a new book	 book	8.084347773525346	1
+The immigrant left Mexico and tried to cross the border	The immigrant left Mexico and tried to cross the border	 border	0.366849124454603	1
+There were lots of intimidating guards stationed at the border	There were lots of intimidating guards stationed at the border	 border	4.432021483576334	1
+The kids were scared about trying to cross the border	The kids were scared about trying to cross the border	 border	2.401295103503545	1
+Because the work was repetitive, he thought it was boring	Because the work was repetitive, he thought it was boring	 boring	5.718335838385224	1
+He visited the museum, and he thought it was boring	He visited the museum, and he thought it was boring	 boring	7.964703301496296	1
+He visited the catacombs, and he thought it was boring	He visited the catacombs, and he thought it was boring	 boring	9.348309505838085	1
+The archer pulled back the string of his bow	The archer pulled back the string of his bow	 bow	0.7724177905882543	1
+While facing the target, he picked up his bow	While facing the target, he picked up his bow	 bow	6.27312705145654	1
+On television, the Olympic athlete picked up his bow	On television, the Olympic athlete picked up his bow	 bow	6.89599053538748	1
+Jan poured the milk and cereal into her bowl	Jan poured the milk and cereal into her bowl	 bowl	2.777264743155237	1
+The waiter accidentally dropped her spoon and her bowl	The waiter accidentally dropped her spoon and her bowl	 bowl	5.942543029926587	1
+Jan was walking and she accidentally dropped her bowl	Jan was walking and she accidentally dropped her bowl	 bowl	7.556369237075907	1
+Instead of the accelerator, Maria stepped on the brake	Instead of the accelerator, Maria stepped on the brake	 brake	2.2122360972850745	1
+My passengers jumped when I stepped on the brake	My passengers jumped when I stepped on the brake	 brake	3.4090047379322668	1
+We were surprised when Maria stepped on the brake	We were surprised when Maria stepped on the brake	 brake	5.479897770113125	1
+Laurence got some yeast to bake his own bread	Laurence got some yeast to bake his own bread	 bread	1.8812527768977783	1
+Laurence needed some advice before baking his own bread	Laurence needed some advice before baking his own bread	 bread	3.8953580492018904	1
+Laurence woke up early to make his own bread	Laurence woke up early to make his own bread	 bread	7.249198064554817	1
+They got a loan to start their own small business	They got a loan to start their own small business	 business	0.3583567190093965	1
+My roommate was hoping to build his own small business	My roommate was hoping to build his own small business	 business	2.4181635777352817	1
+They needed some land to build their own small business	They needed some land to build their own small business	 business	4.251352622984621	1
+The birthday boy didn't want frosting on his slice of cake	The birthday boy didn't want frosting on his slice of cake	 cake	1.3333775349104204	1
+The hungry student decided to buy a small piece of cake	The hungry student decided to buy a small piece of cake	 cake	4.480981094153921	1
+My wife said that she didn't like that kind of cake	My wife said that she didn't like that kind of cake	 cake	8.018945834652973	1
+The cow gave birth to the brown calf	The cow gave birth to the brown calf	 calf	6.5117806264223566	1
+The farmer gave milk to the brown calf	The farmer gave milk to the brown calf	 calf	7.81971449590088	1
+Bill went to check on the brown calf	Bill went to check on the brown calf	 calf	8.993614919320501	1
+The boy scouts hurried back to set up camp	The boy scouts hurried back to set up camp	 camp	0.29615774286370794	1
+The cheerful woman hurried over to set up camp	The cheerful woman hurried over to set up camp	 camp	4.335296724632848	1
+We watched my nephew try to set up camp	We watched my nephew try to set up camp	 camp	6.320028180106228	1
+On Halloween, the costumed children grabbed several pieces of candy	On Halloween, the costumed children grabbed several pieces of candy	 candy	1.1586841344411352	1
+While touring the factory, Bill sampled several pieces of candy	While touring the factory, Bill sampled several pieces of candy	 candy	6.468353840708256	1
+The food scientists were developing a new type of candy	The food scientists were developing a new type of candy	 candy	7.50192386761584	1
+The cashier asked the customer to swipe his card	The cashier asked the customer to swipe his card	 card	1.1909462706589986	1
+Johnathan told the banker that he'd lost his card	Johnathan told the banker that he'd lost his card	 card	8.048081820675774	1
+At security, the guards needed to inspect his card	At security, the guards needed to inspect his card	 card	8.568500509329514	1
+In the cartoon, Bugs Bunny was munching on a carrot	In the cartoon, Bugs Bunny was munching on a carrot	 carrot	3.4265750107307786	1
+The cook was chopping up the parsley and a carrot	The cook was chopping up the parsley and a carrot	 carrot	6.7082586055698465	1
+In the door of his refrigerator he found a carrot	In the door of his refrigerator he found a carrot	 carrot	8.899821361704355	1
+At Costco, the toddler wanted to push the cart	At Costco, the toddler wanted to push the cart	 cart	1.707086717005706	1
+The grocery store employee had to retrieve the cart	The grocery store employee had to retrieve the cart	 cart	5.080498303479578	1
+At work, the assistant needed to find the cart	At work, the assistant needed to find the cart	 cart	9.56974334832741	1
+The biologist knew that there were bats living in the cave	The biologist knew that there were bats living in the cave	 cave	3.5315349372557803	1
+The biologist knew that there were bears living in the cave	The biologist knew that there were bears living in the cave	 cave	5.262141944695782	1
+The police knew that there were people living in the cave	The police knew that there were people living in the cave	 cave	7.084375637030453	1
+DNA is housed within the nucleus of a cell	DNA is housed within the nucleus of a cell	 cell	0.6058014526152585	1
+The scientists were extracting the DNA from a cell	The scientists were extracting the DNA from a cell	 cell	5.369621180495495	1
+In his textbook, there's a drawing of a cell	In his textbook, there's a drawing of a cell	 cell	8.446659693079496	1
+The teacher walked up to the board and grabbed a piece of chalk	The teacher walked up to the board and grabbed a piece of chalk	 chalk	3.070081420585397	1
+After decades, the instructor decided to switch to a new brand of chalk	After decades, the instructor decided to switch to a new brand of chalk	 chalk	8.090800622960918	1
+While searching around in the garage, the man found a piece of chalk	While searching around in the garage, the man found a piece of chalk	 chalk	6.647140936994997	1
+The checkmate abruptly ended their game of chess	The checkmate abruptly ended their game of chess	 chess	2.366170352412436	1
+The two Russians played another round of chess	The two Russians played another round of chess	 chess	4.068039494444443	1
+They were learning another important rule of chess	They were learning another important rule of chess	 chess	5.548872346554323	1
+Santa lands on the roof and comes down through the chimney	Santa lands on the roof and comes down through the chimney	 chimney	4.381764671333537	2
+The firefighter noticed there was smoke coming out of the chimney	The firefighter noticed there was smoke coming out of the chimney	 chimney	4.672317631034855	2
+Every Spring, my family cleans out the basement and the chimney	Every Spring, my family cleans out the basement and the chimney	 chimney	7.717252953644763	2
+The soprano auditioned for the church choir	The soprano auditioned for the church choir	 choir	2.1802427661903243	1
+Every Easter, they heard the church choir	Every Easter, they heard the church choir	 choir	2.9821411527130173	1
+Elizabeth didn't like to attend church choir	Elizabeth didn't like to attend church choir	 choir	10.016401016334763	1
+At storytime, the preschoolers have to sit in a circle	At storytime, the preschoolers have to sit in a circle	 circle	2.009832283193903	1
+The girl decided to arrange her dolls in a circle	The girl decided to arrange her dolls in a circle	 circle	3.375734100365861	1
+All of the fifth-graders had to get in a circle	All of the fifth-graders had to get in a circle	 circle	6.15814990530608	1
+Above the doorway, he heard the ticking of the old clock	Above the doorway, he heard the ticking of the old clock	 clock	1.4578703302967768	1
+In the den, they replaced the battery in the old clock	In the den, they replaced the battery in the old clock	 clock	7.392494442536354	1
+After their trip, they replaced the battery in the old clock	After their trip, they replaced the battery in the old clock	 clock	8.352326822875913	1
+In a few weeks, the butterfly will emerge from the cocoon	In a few weeks, the butterfly will emerge from the cocoon	 cocoon	5.2582146752128605	2
+The caterpillar was trying its best to escape from the cocoon	The caterpillar was trying its best to escape from the cocoon	 cocoon	7.841887538717532	2
+The biologist used the microscope to see inside of the cocoon	The biologist used the microscope to see inside of the cocoon	 cocoon	8.002108278007496	2
+Melissa asks for decaf when ordering her cup of coffee	Melissa asks for decaf when ordering her cup of coffee	 coffee	0.8344292131758562	1
+The customer left without finishing his last sip of coffee	The customer left without finishing his last sip of coffee	 coffee	2.8659380297922254	1
+Melissa has difficulty when she's picking a type of coffee	Melissa has difficulty when she's picking a type of coffee	 coffee	5.64977055997389	1
+We had to guess heads or tails when the referee flipped the coin	We had to guess heads or tails when the referee flipped the coin	 coin	3.3131126790418737	1
+Because it was rare, he could get some money from selling the coin	Because it was rare, he could get some money from selling the coin	 coin	7.875412224473539	1
+He was carrying so much stuff in his hands, he dropped the coin	He was carrying so much stuff in his hands, he dropped the coin	 coin	7.033390376137282	1
+The boy scout navigated using a map and a compass	The boy scout navigated using a map and a compass	 compass	1.4369329821196941	1
+My brother always carried a pocket knife and a compass	My brother always carried a pocket knife and a compass	 compass	7.4835098910669515	1
+The boyscout always carried a first-aid kit and a compass	The boyscout always carried a first-aid kit and a compass	 compass	6.32242954498784	1
+Lauren turned on the TV and flopped down on the couch	Lauren turned on the TV and flopped down on the couch	 couch	0.7966180108748409	1
+They were worried that the cat would tear up the couch	They were worried that the cat would tear up the couch	 couch	5.301685875211024	1
+Before painting, the contractors laid down a tarp on the couch	Before painting, the contractors laid down a tarp on the couch	 couch	9.163696495656811	1
+Eric sued the taxi driver and took him to court	Eric sued the taxi driver and took him to court	 court	0.19110361508806475	1
+Susan was angry at Eric and took him to court	Susan was angry at Eric and took him to court	 court	2.254847063872484	1
+Eric picked up his friend and brought him to court	Eric picked up his friend and brought him to court	 court	7.471455672917503	1
+Jesus was crucified on a large wooden cross	Jesus was crucified on a large wooden cross	 cross	0.34584746300892755	1
+The nuns were praying beside the wooden cross	The nuns were praying beside the wooden cross	 cross	2.618749865298318	1
+In the gallery, there was a wooden cross	In the gallery, there was a wooden cross	 cross	4.653748460989275	1
+On the queen's head, the priest placed a golden crown	On the queen's head, the priest placed a golden crown	 crown	1.8421895292843211	1
+On the king's nightstand, the men saw a golden crown	On the king's nightstand, the men saw a golden crown	 crown	5.2794838004080455	1
+The merchant paid for the goods with a golden crown	The merchant paid for the goods with a golden crown	 crown	6.14245476123784	1
+The disease is fatal as there is no known cure	The disease is fatal as there is no known cure	 cure	0.5874328080592204	1
+This danger is real and there is no known cure	This danger is real and there is no known cure	 cure	1.008695919799028	1
+We heard that the remote island has no known cure	We heard that the remote island has no known cure	 cure	8.305703668669155	1
+Camels can travel across the hot sands of the desert	Camels can travel across the hot sands of the desert	 desert	3.0785207316035814	1
+Somehow, farmers were able to grow crops in the desert	Somehow, farmers were able to grow crops in the desert	 desert	4.834180696206169	1
+The young students learned some interesting facts about the desert	The young students learned some interesting facts about the desert	 desert	8.107495664833628	1
+Late at the office, Victor can always be found sitting at his desk	Late at the office, Victor can always be found sitting at his desk	 desk	0.28364393372452834	1
+My friend always kept a large bag of chocolate bars in his desk	My friend always kept a large bag of chocolate bars in his desk	 desk	4.873779504446861	1
+When I came home yesterday, I saw that Victor was fixing his desk	When I came home yesterday, I saw that Victor was fixing his desk	 desk	6.448769928929906	1
+To prevent a mess, the caregiver checked the baby's diaper	To prevent a mess, the caregiver checked the baby's diaper	 diaper	1.9241748454643643	2
+Before leaving the driveway, my wife checked the baby's diaper	Before leaving the driveway, my wife checked the baby's diaper	 diaper	2.3387731287272158	2
+Before leaving the maternity ward, someone checked the baby's diaper	Before leaving the maternity ward, someone checked the baby's diaper	 diaper	2.8734860268408937	2
+To take her turn at Monopoly, Helen rolled both of the dice	To take her turn at Monopoly, Helen rolled both of the dice	 dice	2.766898160907618	1
+They weren't able to play Monopoly, because they had lost the dice	They weren't able to play Monopoly, because they had lost the dice	 dice	7.9754537792494835	1
+While cleaning out the cluttered closet, Helen found both of the dice	While cleaning out the cluttered closet, Helen found both of the dice	 dice	11.247521209761588	1
+My medical records are accessible to the nurse and the doctor	My medical records are accessible to the nurse and the doctor	 doctor	3.198927232154813	1
+The young woman was inspired by the scientist and the doctor	The young woman was inspired by the scientist and the doctor	 doctor	5.649990235065543	1
+She had to be interviewed by the lawyer and the doctor	She had to be interviewed by the lawyer and the doctor	 doctor	5.362171019250926	1
+The bird typically used to symbolize peace is a white dove	The bird typically used to symbolize peace is a white dove	 dove	4.27847274124432	1
+Perched up on the powerline he saw a small, white dove	Perched up on the powerline he saw a small, white dove	 dove	8.149685347692825	1
+In the corner of his eye he saw a white dove	In the corner of his eye he saw a white dove	 dove	8.161316092767358	1
+Maria thought she looked great in her little black dress	Maria thought she looked great in her little black dress	 dress	0.6671236847059764	1
+In her bedroom, she was looking for her black dress	In her bedroom, she was looking for her black dress	 dress	3.2703116822633738	1
+When she moved away, my girlfriend sold the black dress	When she moved away, my girlfriend sold the black dress	 dress	4.277608868034331	1
+He was very thirsty and needed something to drink	He was very thirsty and needed something to drink	 drink	0.3211135828508154	1
+At the restaurant, he didn't want anything to drink	At the restaurant, he didn't want anything to drink	 drink	7.745336167855455	1
+When school ended, my friends just wanted to drink	When school ended, my friends just wanted to drink	 drink	6.449511460760225	1
+The lake had dried up after last year's drought	The lake had dried up after last year's drought	 drought	3.32259334790349	1
+They mortgaged all their land after last year's drought	They mortgaged all their land after last year's drought	 drought	3.5581353010931034	1
+They started filming a documentary about last year's drought	They started filming a documentary about last year's drought	 drought	7.5382355707811035	1
+My wife hangs the wet clothes outside to dry	My wife hangs the wet clothes outside to dry	 dry	0.4185481960159871	1
+The farmer was waiting for the field to dry	The farmer was waiting for the field to dry	 dry	1.894224282192884	1
+The driver was waiting for the car to dry	The driver was waiting for the car to dry	 dry	9.649125065614509	1
+Her fridge was empty, and she had nothing to eat	Her fridge was empty, and she had nothing to eat	 eat	0.6826547929789742	1
+The premiere was starting, and she had nothing to eat	The premiere was starting, and she had nothing to eat	 eat	6.384492302245757	1
+My cousin was bored, and she had nothing to eat	My cousin was bored, and she had nothing to eat	 eat	3.730890235670049	1
+The hen was going to lay some more eggs	The hen was going to lay some more eggs	 eggs	1.0986584780825102	1
+The man really wanted to fry some more eggs	The man really wanted to fry some more eggs	 eggs	4.540911646047238	1
+The girl was planning to buy some more eggs	The girl was planning to buy some more eggs	 eggs	6.3815796951104655	1
+The senator campaigned in order to win the election	The senator campaigned in order to win the election	 election	3.4489411124019504	1
+The senator's wife was very angry about the election	The senator's wife was very angry about the election	 election	5.237740214590191	1
+My roommate needed to learn more about the election	My roommate needed to learn more about the election	 election	10.3881539894731	1
+In Santa's workshop, the toys are made by the elves	In Santa's workshop, the toys are made by the elves	 elves	10.629797237486104	2
+His children thought the games were made by the elves	His children thought the games were made by the elves	 elves	10.406617599400256	2
+Timmy wanted to hear another bedtime story about the elves	Timmy wanted to hear another bedtime story about the elves	 elves	8.934665156603607	2
+Melissa was crying, and we saw tears in her eyes	Melissa was crying, and we saw tears in her eyes	 eyes	0.08279867295336864	1
+During the checkup, the doctor looked carefully into her eyes	During the checkup, the doctor looked carefully into her eyes	 eyes	0.5497331908527523	1
+Her new wallpaper was the same color as her eyes	Her new wallpaper was the same color as her eyes	 eyes	6.797862359771631	1
+Old McDonald had plenty of animals on his farm	Old McDonald had plenty of animals on his farm	 farm	3.2582728754946424	1
+My uncle planted lots of trees on his farm	My uncle planted lots of trees on his farm	 farm	2.0291875749995567	1
+My uncle is installing solar panels on his farm	My uncle is installing solar panels on his farm	 farm	3.430465175320763	1
+Because he loved to work the land, Jim became a farmer	Because he loved to work the land, Jim became a farmer	 farmer	3.8030575685968366	1
+After returning home from the big city, Jim became a farmer	After returning home from the big city, Jim became a farmer	 farmer	7.182418994909987	1
+After he returned home from his travels, Jim became a farmer	After he returned home from his travels, Jim became a farmer	 farmer	7.063853505877893	1
+Before mopping, he had to sweep the floor	Before mopping, he had to sweep the floor	 floor	2.866365793721138	1
+All the books were stacked on the floor	All the books were stacked on the floor	 floor	2.79032048109328	1
+After the party the butler cleaned the floor	After the party the butler cleaned the floor	 floor	4.109833901081959	1
+To keep the dough from sticking, she dusted her hands with flour	To keep the dough from sticking, she dusted her hands with flour	 flour	2.362856793991872	1
+The chef dumped out the measuring cup that was filled with flour	The chef dumped out the measuring cup that was filled with flour	 flour	4.595958845929139	1
+At the end of the day, her clothes were covered with flour	At the end of the day, her clothes were covered with flour	 flour	5.808745811670284	1
+Pam received a rose, but preferred any other species of flower	Pam received a rose, but preferred any other species of flower	 flower	3.5102010376911696	1
+As an anniversary gift, she received a rare kind of flower	As an anniversary gift, she received a rare kind of flower	 flower	5.769836108361965	1
+Charlotte finished reading a book about a rare kind of flower	Charlotte finished reading a book about a rare kind of flower	 flower	6.241455681909432	1
+After the goose injured its wing, it could no longer fly	After the goose injured its wing, it could no longer fly	 fly	1.7150738812639157	1
+When it's locked in a cage, it can no longer fly	When it's locked in a cage, it can no longer fly	 fly	3.4839271021975686	1
+When he dropped the new toy, it could no longer fly	When he dropped the new toy, it could no longer fly	 fly	5.1918570531012485	1
+The editor, who hates Times New Roman, decided to switch the font	The editor, who hates Times New Roman, decided to switch the font	 font	3.321606064115572	1
+Brenda is the editor, and she recently decided to switch the font	Brenda is the editor, and she recently decided to switch the font	 font	6.703975195520759	1
+Brenda had a change of heart and decided to switch the font	Brenda had a change of heart and decided to switch the font	 font	8.32164770685965	1
+To display the beautiful photo, she ordered an elegant frame	To display the beautiful photo, she ordered an elegant frame	 frame	6.384620170071115	1
+The burglar stole the painting but left the elegant frame	The burglar stole the painting but left the elegant frame	 frame	5.8849615768979975	1
+While she was shopping yesterday, she bought an elegant frame	While she was shopping yesterday, she bought an elegant frame	 frame	8.387755132953579	1
+Apples are definitely his favorite type of fruit	Apples are definitely his favorite type of fruit	 fruit	0.25912757072867976	1
+The farmers were selling a lot of fruit	The farmers were selling a lot of fruit	 fruit	5.326236969383956	1
+Jason brought his parents a lot of fruit	Jason brought his parents a lot of fruit	 fruit	6.808688624837608	1
+Gasoline usually costs about three dollars for a gallon	Gasoline usually costs about three dollars for a gallon	 gallon	0.3769506926195053	1
+The thirsty police officer could probably drink a gallon	The thirsty police officer could probably drink a gallon	 gallon	3.2949905122159264	1
+The store always charged too much for a gallon	The store always charged too much for a gallon	 gallon	7.4939061643219995	1
+Her vision was terrible, and she has to wear glasses	Her vision was terrible, and she has to wear glasses	 glasses	3.250479732815705	1
+She looks very different when she has to wear glasses	She looks very different when she has to wear glasses	 glasses	4.418782902308323	1
+Her mother was adamant that she has to wear glasses	Her mother was adamant that she has to wear glasses	 glasses	5.000732222327167	1
+The doctor wore the sterile rubber gloves	The doctor wore the sterile rubber gloves	 gloves	1.3861155692968616	1
+The trainee used the thick rubber gloves	The trainee used the thick rubber gloves	 gloves	3.5219752112885785	1
+The child carried the black rubber gloves	The child carried the black rubber gloves	 gloves	5.8322393968710005	1
+The soccer team celebrated after their player scored a goal	The soccer team celebrated after their player scored a goal	 goal	0.905320987861004	1
+Their team never won, because they never got a goal	Their team never won, because they never got a goal	 goal	5.440975402146359	1
+He knew that it was important to have a goal	He knew that it was important to have a goal	 goal	6.845379956620787	1
+The collector's most valuable coins were made of silver and gold	The collector's most valuable coins were made of silver and gold	 gold	1.441465007899369	1
+The miners were able to extract lots of iron and gold	The miners were able to extract lots of iron and gold	 gold	1.9716769089426618	1
+Brazil is known to import lots of lumber, livestock, and gold	Brazil is known to import lots of lumber, livestock, and gold	 gold	7.288270413847259	1
+Before eating dinner, the family held hands to say grace	Before eating dinner, the family held hands to say grace	 grace	7.555229079215884	1
+The family wondered whether the visitors wanted to say grace	The family wondered whether the visitors wanted to say grace	 grace	6.7513225519225	1
+Timmy listened to hear if the men would say grace	Timmy listened to hear if the men would say grace	 grace	9.239815807922831	1
+On the mashed potatoes she poured a delicious gravy	On the mashed potatoes she poured a delicious gravy	 gravy	4.653148230355066	2
+She thickened the stock to make a delicious gravy	She thickened the stock to make a delicious gravy	 gravy	7.151186915701751	2
+The restaurant was famous for making a delicious gravy	The restaurant was famous for making a delicious gravy	 gravy	6.596440974667942	2
+The passwords were stolen by a brilliant hacker	The passwords were stolen by a brilliant hacker	 hacker	0.6916441201050723	1
+The security experts were arresting a brilliant hacker	The security experts were arresting a brilliant hacker	 hacker	2.9615966078253835	1
+The software was designed by a brilliant hacker	The software was designed by a brilliant hacker	 hacker	4.939203550119885	1
+The barber gave Brian a nice looking haircut	The barber gave Brian a nice looking haircut	 haircut	4.520711539721019	3
+That weekend, Brian got a nice looking haircut	That weekend, Brian got a nice looking haircut	 haircut	6.532641335978055	3
+We noticed Brian had a nice looking haircut	We noticed Brian had a nice looking haircut	 haircut	8.17236875896885	3
+The angry visitor said hello, but he refused to shake my hand	The angry visitor said hello, but he refused to shake my hand	 hand	0.09684943197960838	1
+I couldn't finish writing, because there was something wrong with my hand	I couldn't finish writing, because there was something wrong with my hand	 hand	4.905712448078472	1
+I was very uncomfortable because I had a cramp in my hand	I was very uncomfortable because I had a cramp in my hand	 hand	4.407542702744197	1
+The child couldn't carry the luggage because it was too heavy	The child couldn't carry the luggage because it was too heavy	 heavy	1.309610117670498	1
+Ben didn't like his vacuum cleaner because it was too heavy	Ben didn't like his vacuum cleaner because it was too heavy	 heavy	3.538871817068105	1
+The hikers didn't buy the tent because it was too heavy	The hikers didn't buy the tent because it was too heavy	 heavy	5.405428260780437	1
+They didn't have a puck or skates, so they couldn't play hockey	They didn't have a puck or skates, so they couldn't play hockey	 hockey	3.5853827234772884	1
+My brother got his teeth knocked out while trying to play hockey	My brother got his teeth knocked out while trying to play hockey	 hockey	4.163566804556265	1
+Because football season is over, Bill is now training to play hockey	Because football season is over, Bill is now training to play hockey	 hockey	6.693720535605324	1
+The fisherman attached the worm to the hook	The fisherman attached the worm to the hook	 hook	3.4258575197688144	1
+We definitely saw the fish swallow the hook	We definitely saw the fish swallow the hook	 hook	5.816642880169063	1
+James didn't have enough money for the hook	James didn't have enough money for the hook	 hook	10.664809777300752	1
+To water the huge garden, they needed a long hose	To water the huge garden, they needed a long hose	 hose	2.202480868104566	1
+Outside in the back yard, they needed a long hose	Outside in the back yard, they needed a long hose	 hose	3.854701927708346	1
+Over at the loading dock, they needed a long hose	Over at the loading dock, they needed a long hose	 hose	4.889310257108289	1
+For their anniversary in Seattle, they booked a room at a nice hotel	For their anniversary in Seattle, they booked a room at a nice hotel	 hotel	0.9747151337617692	1
+For the wedding reception, they were supposed to meet at a nice hotel	For the wedding reception, they were supposed to meet at a nice hotel	 hotel	1.8559556789574203	1
+The investment banker was supposed to meet his client at a nice hotel	The investment banker was supposed to meet his client at a nice hotel	 hotel	1.3417228957435197	1
+After hours of brainstorming, they had run out of ideas	After hours of brainstorming, they had run out of ideas	 ideas	1.1396820725630206	1
+The consultant said that he had run out of ideas	The consultant said that he had run out of ideas	 ideas	4.094462595685017	1
+The chef said that he had run out of ideas	The chef said that he had run out of ideas	 ideas	7.217538514667831	1
+Using ice and snow, the traditional Eskimo family built a small igloo	Using ice and snow, the traditional Eskimo family built a small igloo	 igloo	6.1670058527219345	2
+To get warm, the two arctic explorers climbed inside a small igloo	To get warm, the two arctic explorers climbed inside a small igloo	 igloo	7.3070842210151135	2
+The shivering family was huddled in the shelter of a small igloo	The shivering family was huddled in the shelter of a small igloo	 igloo	10.493953296362657	2
+His green pen had just run out of ink	His green pen had just run out of ink	 ink	0.3584530995146064	1
+The famous writer had just run out of ink	The famous writer had just run out of ink	 ink	4.267388891255913	1
+The supply cabinet had just run out of ink	The supply cabinet had just run out of ink	 ink	5.707608965411077	1
+The diabetic lady needed to inject some insulin	The diabetic lady needed to inject some insulin	 insulin	2.3221502136693943	1
+She brought the needle to inject some insulin	She brought the needle to inject some insulin	 insulin	6.443472757080977	1
+The homeless woman tried to inject some insulin	The homeless woman tried to inject some insulin	 insulin	6.700349079472272	1
+I smoothed out the wrinkled pants with the new iron	I smoothed out the wrinkled pants with the new iron	 iron	7.522320177965323	1
+I accidentally burned my hand while using the new iron	I accidentally burned my hand while using the new iron	 iron	9.044945830698033	1
+I saw some steam coming out of the new iron	I saw some steam coming out of the new iron	 iron	9.461618558559163	1
+The sailors saw a single palm tree in the center of the island	The sailors saw a single palm tree in the center of the island	 island	3.7672434568749713	1
+The rescue workers recently found an old hermit living alone on the island	The rescue workers recently found an old hermit living alone on the island	 island	2.303911901608737	1
+The rescue workers just learned that the captain had died on the island	The rescue workers just learned that the captain had died on the island	 island	4.517224035390753	1
+She smothered the sandwich with peanut butter and lots of jelly	She smothered the sandwich with peanut butter and lots of jelly	 jelly	5.373254218147155	1
+Every Spring, the farmers would make jam and lots of jelly	Every Spring, the farmers would make jam and lots of jelly	 jelly	6.915861949863854	1
+At Costco, she bought some crisp apples and lots of jelly	At Costco, she bought some crisp apples and lots of jelly	 jelly	7.3185684931473265	1
+He usually eats a whole orange rather than just drinking the juice	He usually eats a whole orange rather than just drinking the juice	 juice	0.6279586637839053	1
+My husband was flipping the pancakes and I was pouring the juice	My husband was flipping the pancakes and I was pouring the juice	 juice	4.2436436215254325	1
+The elderly man started to choke and sputter while drinking the juice	The elderly man started to choke and sputter while drinking the juice	 juice	4.758993987307245	1
+She's locked out because she forgot to take her keys	She's locked out because she forgot to take her keys	 keys	3.524996619087474	1
+As she rushed out, she forgot to take her keys	As she rushed out, she forgot to take her keys	 keys	4.595838810366804	1
+While running her errands, she forgot to take her keys	While running her errands, she forgot to take her keys	 keys	4.095464885808276	1
+The curse could only be broken by her true love's first kiss	The curse could only be broken by her true love's first kiss	 kiss	1.4731143192268388	1
+Emma bragged to her friends that she had gotten her first kiss	Emma bragged to her friends that she had gotten her first kiss	 kiss	3.3898072315697187	1
+She didn't want to make a judgement based on the first kiss	She didn't want to make a judgement based on the first kiss	 kiss	6.471761106715323	1
+They were cutting the cake using a silver knife	They were cutting the cake using a silver knife	 knife	1.5788567649902163	1
+We decided to buy the cook a silver knife	We decided to buy the cook a silver knife	 knife	5.619075758520894	1
+When my grandfather died, I inherited a silver knife	When my grandfather died, I inherited a silver knife	 knife	6.679123965676983	1
+The wide highway downtown has more than six lanes	The wide highway downtown has more than six lanes	 lanes	2.2336193468933607	1
+The group of bikers crossed more than six lanes	The group of bikers crossed more than six lanes	 lanes	3.082946046116379	1
+The marathon runners will cross more than six lanes	The marathon runners will cross more than six lanes	 lanes	5.076106925857697	1
+The birthday card was funny and made me laugh	The birthday card was funny and made me laugh	 laugh	0.9755241035256648	1
+The coach of our team always made me laugh	The coach of our team always made me laugh	 laugh	3.3836039156819853	1
+My supervisor and coworkers have never seen me laugh	My supervisor and coworkers have never seen me laugh	 laugh	5.7461212597525355	1
+The owner paid the children to mow the lawn	The owner paid the children to mow the lawn	 lawn	0.4543726603066372	1
+We saw our neighbor was working on the lawn	We saw our neighbor was working on the lawn	 lawn	4.697344597910849	1
+We saw the man walking barefoot across the lawn	We saw the man walking barefoot across the lawn	 lawn	3.204076208024995	1
+When the company sued him, he decided to hire a lawyer	When the company sued him, he decided to hire a lawyer	 lawyer	1.04854812177055	1
+When he crashed his car, he decided to hire a lawyer	When he crashed his car, he decided to hire a lawyer	 lawyer	2.852461166292817	1
+When he crashed his car, he decided to call a lawyer	When he crashed his car, he decided to call a lawyer	 lawyer	3.725589722284868	1
+The motorcycle jacket was made out of black leather	The motorcycle jacket was made out of black leather	 leather	1.5709609934876214	1
+Her new skirt was made out of black leather	Her new skirt was made out of black leather	 leather	3.027319168758545	1
+For her project, she bought lots of black leather	For her project, she bought lots of black leather	 leather	4.382000984470522	1
+Bill raked up all the leaves	Bill raked up all the leaves	 leaves	7.473316590665772	1
+The breeze lifted all the leaves	The breeze lifted all the leaves	 leaves	2.4085902396208416	1
+Watson gathered up all the leaves	Watson gathered up all the leaves	 leaves	6.402311587089983	1
+Because Peter never told the truth, everyone knew he was a liar	Because Peter never told the truth, everyone knew he was a liar	 liar	2.0614802300209734	1
+When Peter's dark secret was discovered, everyone knew he was a liar	When Peter's dark secret was discovered, everyone knew he was a liar	 liar	5.494639543836694	1
+When Peter got out of prison, everyone knew he was a liar	When Peter got out of prison, everyone knew he was a liar	 liar	6.297218427621843	1
+Because it was overdue, Billy returned the book to the library	Because it was overdue, Billy returned the book to the library	 library	1.863206411645439	1
+To get some peace and quiet he went to the library	To get some peace and quiet he went to the library	 library	3.4041641243302427	1
+After finishing up at the store, they went to the library	After finishing up at the store, they went to the library	 library	4.903124130871112	1
+It was dark in the bedroom, so she turned on the light	It was dark in the bedroom, so she turned on the light	 light	0.8332786068471686	1
+She couldn't read the book because her brother was blocking the light	She couldn't read the book because her brother was blocking the light	 light	3.620876708929132	1
+You can damage your vision if you keep staring at the light	You can damage your vision if you keep staring at the light	 light	5.1162627434752865	1
+Before meeting Brad, she put on black eyeliner and some red lipstick	Before meeting Brad, she put on black eyeliner and some red lipstick	 lipstick	0.4825063197820802	2
+At the premier, she wore a black dress and some red lipstick	At the premier, she wore a black dress and some red lipstick	 lipstick	2.0556163847956284	2
+At the store, she bought some black pens and some red lipstick	At the store, she bought some black pens and some red lipstick	 lipstick	7.04608714884404	2
+I had to go inside because the jackhammer was very loud	I had to go inside because the jackhammer was very loud	 loud	0.2433967433031156	1
+The kid who was playing on the playground was very loud	The kid who was playing on the playground was very loud	 loud	5.129909433106487	1
+She saw her coworker at the bar, who was very loud	She saw her coworker at the bar, who was very loud	 loud	6.555814285207994	1
+He didn't eat breakfast, and he forgot to pack his lunch	He didn't eat breakfast, and he forgot to pack his lunch	 lunch	1.0932581744688221	1
+For the student's daytrip, he had forgotten to bring his lunch	For the student's daytrip, he had forgotten to bring his lunch	 lunch	4.038511312122987	1
+He was late because he had to pick up his lunch	He was late because he had to pick up his lunch	 lunch	6.200474650715673	1
+The gentleman lit the candle using a single match	The gentleman lit the candle using a single match	 match	4.083801195947072	1
+The forest fire was started by a single match	The forest fire was started by a single match	 match	9.169672769781297	1
+None of the man's coworkers had a single match	None of the man's coworkers had a single match	 match	7.537016526521575	1
+Ben was great at remembering numbers because he had a good memory	Ben was great at remembering numbers because he had a good memory	 memory	1.6264440802948792	1
+Ben always did well in Biology because he had a good memory	Ben always did well in Biology because he had a good memory	 memory	3.7556381345672167	1
+Ben was always an excellent employee because he had a good memory	Ben was always an excellent employee because he had a good memory	 memory	6.4465142825832995	1
+The dairy cow produced a lot of milk	The dairy cow produced a lot of milk	 milk	0.5990024647448904	1
+The large jug held a lot of milk	The large jug held a lot of milk	 milk	5.486257659443702	1
+The local farmers produced a lot of milk	The local farmers produced a lot of milk	 milk	4.516669552748676	1
+The hikers climbed to the summit of the mountain	The hikers climbed to the summit of the mountain	 mountain	2.7018752823624124	1
+The couple camped near the side of the mountain	The couple camped near the side of the mountain	 mountain	4.132800226092667	1
+The scholars learned about the history of the mountain	The scholars learned about the history of the mountain	 mountain	7.955643909995749	1
+After the body was discovered, our neighbor was arrested for murder	After the body was discovered, our neighbor was arrested for murder	 murder	4.1354084266150615	1
+Our son was innocent and shouldn't have been arrested for murder	Our son was innocent and shouldn't have been arrested for murder	 murder	2.7188242343469744	1
+When the building burned down, the man was arrested for murder	When the building burned down, the man was arrested for murder	 murder	4.131443999927286	1
+Before the weight lifting tournament, he needed to build some muscle	Before the weight lifting tournament, he needed to build some muscle	 muscle	1.8235029233524749	1
+The head of the cheerleading squad needed to build some muscle	The head of the cheerleading squad needed to build some muscle	 muscle	3.88250494445746	1
+After arriving at the campus, he wanted to build some muscle	After arriving at the campus, he wanted to build some muscle	 muscle	9.98464035944075	1
+The burgers were messy, so he made sure to grab a napkin	The burgers were messy, so he made sure to grab a napkin	 napkin	3.2584195292580835	2
+At the diner, the waitress had forgotten to bring him a napkin	At the diner, the waitress had forgotten to bring him a napkin	 napkin	5.980266639574222	2
+When he was walking past the kitchen he accidentally dropped a napkin	When he was walking past the kitchen he accidentally dropped a napkin	 napkin	6.726952390243916	2
+They had to walk single file because the path was too narrow	They had to walk single file because the path was too narrow	 narrow	1.0404356142885338	1
+They decided to use the elevator because the stairwell was too narrow	They decided to use the elevator because the stairwell was too narrow	 narrow	1.238649426232962	1
+They decided not to go rafting because the river was too narrow	They decided not to go rafting because the river was too narrow	 narrow	2.5869972818914757	1
+Of all the animals, the giraffe is known for its long neck	Of all the animals, the giraffe is known for its long neck	 neck	3.756632082650945	1
+Of all the animals, the flamingo is known for its long neck	Of all the animals, the flamingo is known for its long neck	 neck	4.540532722450687	1
+Of all the animals, the peacock is known for its long neck	Of all the animals, the peacock is known for its long neck	 neck	3.2368682665227637	1
+She couldn't get the thread through the eye of the needle	She couldn't get the thread through the eye of the needle	 needle	2.052456004441816	1
+The woman accidentally poked herself with the tip of the needle	The woman accidentally poked herself with the tip of the needle	 needle	4.92690744372864	1
+During arts and crafts she broke the tip of the needle	During arts and crafts she broke the tip of the needle	 needle	5.132592756927852	1
+Before laying its eggs, the robin had to build a nest	Before laying its eggs, the robin had to build a nest	 nest	0.31274558547384634	1
+Up in the poplar tree, the stray cat found a nest	Up in the poplar tree, the stray cat found a nest	 nest	3.950836714529809	1
+While cleaning up outside, Jerry had to throw away a nest	While cleaning up outside, Jerry had to throw away a nest	 nest	9.437924889118044	1
+The volleyball shot barely made it over the net	The volleyball shot barely made it over the net	 net	3.2035931882623725	1
+The referee saw the ball roll under the net	The referee saw the ball roll under the net	 net	2.9984818696628754	1
+Samantha and Karen suspected it was under the net	Samantha and Karen suspected it was under the net	 net	7.863575800949473	1
+Because they are nocturnal creatures, all bats hunt at night	Because they are nocturnal creatures, all bats hunt at night	 night	0.20643090443631595	1
+To keep their relationship secret, they usually meet at night	To keep their relationship secret, they usually meet at night	 night	3.778914330780173	1
+The student was going to get her degree at night	The student was going to get her degree at night	 night	5.3894510451875535	1
+Jack forgot about the cookies baking in the oven	Jack forgot about the cookies baking in the oven	 oven	0.6093442136786763	1
+Jack remembered that he left something in the oven	Jack remembered that he left something in the oven	 oven	5.5484991626279445	1
+Jack remembered that he needed to clean the oven	Jack remembered that he needed to clean the oven	 oven	6.306536288805424	1
+The heroin addict died of an overdose	The heroin addict died of an overdose	 overdose	0.2990920490383297	1
+They used naloxone to treat an overdose	They used naloxone to treat an overdose	 overdose	1.1621998297790272	1
+The celebrity showed signs of an overdose	The celebrity showed signs of an overdose	 overdose	6.745854124131689	1
+The artist dipped her brush into a fresh can of paint	The artist dipped her brush into a fresh can of paint	 paint	2.0236672186883853	1
+At Home Depot they didn't sell the right kind of paint	At Home Depot they didn't sell the right kind of paint	 paint	5.570637811584951	1
+Erica had always wanted to try a new type of paint	Erica had always wanted to try a new type of paint	 paint	6.146063930695223	1
+The student opened his notebook and pulled out a piece of paper	The student opened his notebook and pulled out a piece of paper	 paper	0.2539061013809687	1
+In all his chemistry classes, the student used a lot of paper	In all his chemistry classes, the student used a lot of paper	 paper	4.295852554072651	1
+The two researchers working in the clinical program needed lots of paper	The two researchers working in the clinical program needed lots of paper	 paper	7.314966756845955	1
+For my mother's birthday, we threw a huge party	For my mother's birthday, we threw a huge party	 party	0.9063073036193752	1
+On the last day, there was a huge party	On the last day, there was a huge party	 party	5.2045627908084	1
+Right beside the lake, there was a huge party	Right beside the lake, there was a huge party	 party	6.7756447745258646	1
+The website login asks for my username and password	The website login asks for my username and password	 password	0.23274539373968225	1
+Tim had forgotten his mother's email address and password	Tim had forgotten his mother's email address and password	 password	4.088752846120109	1
+Tim's classmate tried to steal his phone and password	Tim's classmate tried to steal his phone and password	 password	4.898077287010807	1
+In the story, the wolf chased the three little pigs	In the story, the wolf chased the three little pigs	 pigs	5.257321382425947	1
+The farmer was raising cows and lots of little pigs	The farmer was raising cows and lots of little pigs	 pigs	2.9554873888735638	1
+Bill checked outside, but he didn't see the little pigs	Bill checked outside, but he didn't see the little pigs	 pigs	10.051925136269023	1
+The tooth fairy was supposed to leave money under her pillow	The tooth fairy was supposed to leave money under her pillow	 pillow	1.2521178586790558	1
+My cousin usually kept her phone plugged in under her pillow	My cousin usually kept her phone plugged in under her pillow	 pillow	2.0675508677405805	1
+When her wallet was missing, she found it under her pillow	When her wallet was missing, she found it under her pillow	 pillow	2.7421865395439244	1
+On the plane, Timmy went up to the cockpit to meet the pilot	On the plane, Timmy went up to the cockpit to meet the pilot	 pilot	1.9506673153700582	1
+When they arrived at their destination, the passengers got to meet the pilot	When they arrived at their destination, the passengers got to meet the pilot	 pilot	5.119780534296985	1
+When we were told we had to evacuate, we listened to the pilot	When we were told we had to evacuate, we listened to the pilot	 pilot	7.308237287223799	1
+The airport was crowded, and the passengers couldn't board the plane	The airport was crowded, and the passengers couldn't board the plane	 plane	1.2420095460740026	1
+After a three hour wait, the passengers could see the plane	After a three hour wait, the passengers could see the plane	 plane	5.204617850016528	1
+After a three hour wait, the men could see the plane	After a three hour wait, the men could see the plane	 plane	6.868829835625576	1
+The king died because the assassin filled his cup with poison	The king died because the assassin filled his cup with poison	 poison	1.6371833757227907	1
+They were finally able to solve the mouse problem with poison	They were finally able to solve the mouse problem with poison	 poison	12.610587615104661	1
+The small dagger that the soldier carried was covered with poison	The small dagger that the soldier carried was covered with poison	 poison	7.233639758210251	1
+The gym won't let me swim in their heated pool	The gym won't let me swim in their heated pool	 pool	1.1118677825936456	1
+They needed to add more water to the heated pool	They needed to add more water to the heated pool	 pool	2.094594647939632	1
+The men said that I shouldn't approach the heated pool	The men said that I shouldn't approach the heated pool	 pool	5.031990633587465	1
+She added chives and sour cream to the baked potato	She added chives and sour cream to the baked potato	 potato	2.1190224820432166	1
+He opened up the oven to remove the baked potato	He opened up the oven to remove the baked potato	 potato	2.6716270095139967	1
+The waiter recommended the seafood linguini or the baked potato	The waiter recommended the seafood linguini or the baked potato	 potato	3.0407294253884625	1
+The parents of the awarded athlete felt very proud	The parents of the awarded athlete felt very proud	 proud	4.169229311670797	1
+The owner of the Italian restaurant felt very proud	The owner of the Italian restaurant felt very proud	 proud	5.356990864317957	1
+After his final chemo treatment, he felt very proud	After his final chemo treatment, he felt very proud	 proud	6.654538327217872	1
+The water from her umbrella collected in a big puddle	The water from her umbrella collected in a big puddle	 puddle	5.1279559492381095	2
+The steam from her shower collected in a big puddle	The steam from her shower collected in a big puddle	 puddle	5.017267277049365	2
+The drinks that they didn't finish made a big puddle	The drinks that they didn't finish made a big puddle	 puddle	11.401992508729663	2
+When the paramedic arrived, he checked the victim's wrist for a pulse	When the paramedic arrived, he checked the victim's wrist for a pulse	 pulse	1.0459532617078633	1
+When the expert arrived, he immediately checked the woman for a pulse	When the expert arrived, he immediately checked the woman for a pulse	 pulse	2.141270591000888	1
+When the detective arrived at the scene, he looked for a pulse	When the detective arrived at the scene, he looked for a pulse	 pulse	5.696026112597115	1
+For Halloween, they were carving a large pumpkin	For Halloween, they were carving a large pumpkin	 pumpkin	2.228906246180306	1
+For the pie, they bought a large pumpkin	For the pie, they bought a large pumpkin	 pumpkin	8.21376495161895	1
+Before the party, they bought a large pumpkin	Before the party, they bought a large pumpkin	 pumpkin	8.861267468213482	1
+He liked to study in the library because it was very quiet	He liked to study in the library because it was very quiet	 quiet	2.878511078084435	1
+The group of people sitting in the concert hall was very quiet	The group of people sitting in the concert hall was very quiet	 quiet	3.851925717208856	1
+The neighborhood at the top of the tall hill was very quiet	The neighborhood at the top of the tall hill was very quiet	 quiet	1.6772568475654874	1
+The tennis player firmly gripped the handle of his racket	The tennis player firmly gripped the handle of his racket	 racket	1.241782292779666	1
+While waiting for his partner, the player grabbed his racket	While waiting for his partner, the player grabbed his racket	 racket	8.445589621752662	1
+The crowd watched as the man picked up his racket	The crowd watched as the man picked up his racket	 racket	8.844397167358775	1
+Driving in the countryside, I could only hear static on the radio	Driving in the countryside, I could only hear static on the radio	 radio	0.9713070688763226	1
+The woman learned some news about the approaching hurricane on the radio	The woman learned some news about the approaching hurricane on the radio	 radio	2.4610374090613067	1
+Luckily, the old woman found lots of interesting programs on the radio	Luckily, the old woman found lots of interesting programs on the radio	 radio	4.30222821494685	1
+She brought an umbrella to protect her from the rain	She brought an umbrella to protect her from the rain	 rain	2.060421882554241	1
+She brought a jacket to protect her from the rain	She brought a jacket to protect her from the rain	 rain	3.1284540687480864	1
+She arrived late because she got stuck in the rain	She arrived late because she got stuck in the rain	 rain	3.25091922882974	1
+He gathered the leaves into a pile using a rake	He gathered the leaves into a pile using a rake	 rake	5.107776726550197	2
+The homeowner was cleaning up the driveway using a rake	The homeowner was cleaning up the driveway using a rake	 rake	5.136287210203972	2
+He tried to scare off the animal using a rake	He tried to scare off the animal using a rake	 rake	9.114173539412958	2
+During her painful headache, she took a Tylenol to get some relief	During her painful headache, she took a Tylenol to get some relief	 relief	0.9603678919923068	1
+The old woman with the painful sunburn tried to get some relief	The old woman with the painful sunburn tried to get some relief	 relief	5.488411067472224	1
+She decided they should take an extended vacation to get some relief	She decided they should take an extended vacation to get some relief	 relief	8.000926691309635	1
+To make sushi, she carefully boiled the grains of rice	To make sushi, she carefully boiled the grains of rice	 rice	0.8463955949318837	1
+She used the pressure cooker to steam lots of rice	She used the pressure cooker to steam lots of rice	 rice	5.441008802652577	1
+In the kitchen, she accidentally spilled a bunch of rice	In the kitchen, she accidentally spilled a bunch of rice	 rice	5.181934418629192	1
+Before proposing to his girlfriend he would need a ring	Before proposing to his girlfriend he would need a ring	 ring	5.776058971653607	1
+For my fiancée’s upcoming birthday I bought her a ring	For my fiancée’s upcoming birthday I bought her a ring	 ring	6.3674127639114255	1
+After receiving her paycheck she wanted to buy a ring	After receiving her paycheck she wanted to buy a ring	 ring	6.0131847892182675	1
+The climbers and guide were attached to each other by a rope	The climbers and guide were attached to each other by a rope	 rope	1.1479445899392446	1
+The skilled cave explorer remembered to bring his flashlight and a rope	The skilled cave explorer remembered to bring his flashlight and a rope	 rope	5.321337786708837	1
+When Jeff went to the sports equipment store, he bought a rope	When Jeff went to the sports equipment store, he bought a rope	 rope	9.276448785733116	1
+The wind couldn't push the boat because it had a tear in the sail	The wind couldn't push the boat because it had a tear in the sail	 sail	3.5238661247162733	1
+No one has told the sail	No one has told the sail	 sail	12.89267471878526	1
+The team had to work for hours to fix the tear in the sail	The team had to work for hours to fix the tear in the sail	 sail	8.634809840489531	1
+He bought the lettuce and croutons to make a salad	He bought the lettuce and croutons to make a salad	 salad	1.948101588761167	1
+For her lunch tomorrow, she decided to make a salad	For her lunch tomorrow, she decided to make a salad	 salad	4.0619224843409665	1
+On the last day, he decided to make a salad	On the last day, he decided to make a salad	 salad	8.74167039730395	1
+The store reduced their prices during the annual sale	The store reduced their prices during the annual sale	 sale	3.9118114360056095	1
+He spent lots of money at the annual sale	He spent lots of money at the annual sale	 sale	6.619897939582543	1
+John and his wife prepared for the annual sale	John and his wife prepared for the annual sale	 sale	7.3709665955959585	1
+To educate the children, they built a new school	To educate the children, they built a new school	 school	2.146385527440027	1
+My brother moved and transferred to a new school	My brother moved and transferred to a new school	 school	2.425682374042005	1
+After the horrible flood they built a new school	After the horrible flood they built a new school	 school	3.4060605144078053	1
+To read the prophecy, he unrolled the ancient scroll	To read the prophecy, he unrolled the ancient scroll	 scroll	1.2401013545040969	1
+While visiting court, the priest read the ancient scroll	While visiting court, the priest read the ancient scroll	 scroll	4.435486923394078	1
+The pair of thieves recently stole the ancient scroll	The pair of thieves recently stole the ancient scroll	 scroll	5.644412162263885	1
+Susan forgot to put a period at the end of the sentence	Susan forgot to put a period at the end of the sentence	 sentence	3.6579607286337774	1
+Susan had a lot of trouble understanding the end of the sentence	Susan had a lot of trouble understanding the end of the sentence	 sentence	5.7163102371991625	1
+The substitute teacher was pretty impressed by the length of the sentence	The substitute teacher was pretty impressed by the length of the sentence	 sentence	5.493972734212218	1
+When the earthquake began, the whole building started shaking	When the earthquake began, the whole building started shaking	 shaking	0.8766889586052646	1
+They fled in fear when the house started shaking	They fled in fear when the house started shaking	 shaking	3.1304475013749737	1
+When the actor approached the audience, he started shaking	When the actor approached the audience, he started shaking	 shaking	4.317336376192602	1
+The swimmer was attacked by a great white shark	The swimmer was attacked by a great white shark	 shark	1.1950184890532671	1
+The marine biologist was studying a rare white shark	The marine biologist was studying a rare white shark	 shark	3.490855963916931	1
+Earlier, the dock worker saw a beautiful white shark	Earlier, the dock worker saw a beautiful white shark	 shark	5.295449926251332	1
+It could cut easily because the blade was very sharp	It could cut easily because the blade was very sharp	 sharp	1.6899948023922235	1
+She always worked quickly, and her tool was very sharp	She always worked quickly, and her tool was very sharp	 sharp	3.830330906424433	1
+His mom sternly warned him because it was very sharp	His mom sternly warned him because it was very sharp	 sharp	9.036593908714854	1
+Sarah pulled the book off the shelf	Sarah pulled the book off the shelf	 shelf	0.41356781336471976	1
+Sarah arranged the items on the shelf	Sarah arranged the items on the shelf	 shelf	5.416760561870818	1
+Sarah noticed the mouse on the shelf	Sarah noticed the mouse on the shelf	 shelf	5.272719877319915	1
+The warrior blocked the spear thrust with his large wooden shield	The warrior blocked the spear thrust with his large wooden shield	 shield	2.3073044729495518	1
+In the warrior's tomb, the team discovered a large wooden shield	In the warrior's tomb, the team discovered a large wooden shield	 shield	5.818816456371348	1
+The accomplished artist carved the design on the large wooden shield	The accomplished artist carved the design on the large wooden shield	 shield	8.055607977223907	1
+He couldn't reach the high shelf because he was very short	He couldn't reach the high shelf because he was very short	 short	3.4148815172034666	1
+The big kids always teased Jason because he was very short	The big kids always teased Jason because he was very short	 short	4.704720038819878	1
+The parents were worried about Jason because he was very short	The parents were worried about Jason because he was very short	 short	4.97974886579126	1
+When exiting the highway, they had trouble reading the small sign	When exiting the highway, they had trouble reading the small sign	 sign	1.8215975610121904	1
+On their country drive, they had trouble seeing the small sign	On their country drive, they had trouble seeing the small sign	 sign	4.014187692832989	1
+At the Italian restaurant, they had trouble reading the small sign	At the Italian restaurant, they had trouble reading the small sign	 sign	2.053131088763632	1
+Long before he saw the ambulance's lights he heard the siren	Long before he saw the ambulance's lights he heard the siren	 siren	3.99013932401506	2
+When Dennis got closer to the intersection he heard the siren	When Dennis got closer to the intersection he heard the siren	 siren	3.660692583332938	2
+The students were ducking for cover when they heard the siren	The students were ducking for cover when they heard the siren	 siren	5.599943664702617	2
+She was the youngest out of all her brothers and sisters	She was the youngest out of all her brothers and sisters	 sisters	0.4013874505064687	1
+She learned how to use makeup from her friends and sisters	She learned how to use makeup from her friends and sisters	 sisters	6.550564471250288	1
+She was always rude and obnoxious around her teachers and sisters	She was always rude and obnoxious around her teachers and sisters	 sisters	7.837823695608133	1
+Not using sunscreen at the beach can damage your skin	Not using sunscreen at the beach can damage your skin	 skin	1.0982731697134118	1
+The chemicals floating in the water can damage your skin	The chemicals floating in the water can damage your skin	 skin	2.235396001796774	1
+The factory produces noxious chemicals that can damage your skin	The factory produces noxious chemicals that can damage your skin	 skin	1.6209260396410137	1
+Eric comforted his tearful son and sang him to sleep	Eric comforted his tearful son and sang him to sleep	 sleep	0.0695493444136386	1
+My nephew told us that he didn't want to sleep	My nephew told us that he didn't want to sleep	 sleep	6.194524033648845	1
+All of us knew that Eric wouldn't want to sleep	All of us knew that Eric wouldn't want to sleep	 sleep	6.4314799653514685	1
+They didn't rent the apartment because the kitchen was too small	They didn't rent the apartment because the kitchen was too small	 small	0.6428416589585535	1
+They didn't buy the convertible because the engine was too small	They didn't buy the convertible because the engine was too small	 small	2.9109401973980766	1
+She decided not to apply because the college was too small	She decided not to apply because the college was too small	 small	2.8622025740555825	1
+A boa constrictor is a very dangerous type of snake	A boa constrictor is a very dangerous type of snake	 snake	2.948857877508811	1
+He had never been bitten by that type of snake	He had never been bitten by that type of snake	 snake	2.7436372061289327	1
+My little sister had never seen that type of snake	My little sister had never seen that type of snake	 snake	8.203833357486996	1
+Germs are spread when people cough or sneeze	Germs are spread when people cough or sneeze	 sneeze	0.35357215596057623	3
+This powder might make you itch or sneeze	This powder might make you itch or sneeze	 sneeze	5.933971397734058	3
+People always notice when I laugh or sneeze	People always notice when I laugh or sneeze	 sneeze	7.2287690343377475	3
+In the shower, he accidentally dropped the bar of soap	In the shower, he accidentally dropped the bar of soap	 soap	0.7643444591720557	1
+The janitor decided to purchase a new brand of soap	The janitor decided to purchase a new brand of soap	 soap	6.868880504320032	1
+He forgot to stock up on that type of soap	He forgot to stock up on that type of soap	 soap	7.587614404251969	1
+The kids had lots of cavities because they drank soda	The kids had lots of cavities because they drank soda	 soda	4.848623967269182	1
+They were out of lemonade, so instead they drank soda	They were out of lemonade, so instead they drank soda	 soda	5.543090497929564	1
+The hotel didn't have coffee, so instead they drank soda	The hotel didn't have coffee, so instead they drank soda	 soda	7.092371506549084	1
+She puckered her lips because the lemon was too sour	She puckered her lips because the lemon was too sour	 sour	3.714306701753719	1
+She spat out the fruit because it was too sour	She spat out the fruit because it was too sour	 sour	4.111232680152607	1
+She threw away her meal because it was too sour	She threw away her meal because it was too sour	 sour	4.504602347517842	1
+Lines of longitude go from the north to the south	Lines of longitude go from the north to the south	 south	0.13010354989850653	1
+The arrow on the compass was pointing to the south	The arrow on the compass was pointing to the south	 south	3.3353136090721485	1
+On their long vacation, the family traveled to the south	On their long vacation, the family traveled to the south	 south	5.297042220975562	1
+The politician stood at the podium and gave a long speech	The politician stood at the podium and gave a long speech	 speech	0.7407398682279029	1
+Hamilton didn't have the patience to sit through the long speech	Hamilton didn't have the patience to sit through the long speech	 speech	5.931076563866569	1
+Hamilton and his coworkers were chatting together after the long speech	Hamilton and his coworkers were chatting together after the long speech	 speech	8.922451495502695	1
+Merlin needed his magic wand to cast the spell	Merlin needed his magic wand to cast the spell	 spell	1.2573349028521763	1
+The students at Hogwarts had trouble understanding the spell	The students at Hogwarts had trouble understanding the spell	 spell	4.142077013525465	1
+The princess could not be awakened by the spell	The princess could not be awakened by the spell	 spell	5.569433494764309	1
+The web had been spun by the large spider	The web had been spun by the large spider	 spider	8.350038891333229	1
+My older brother refused to touch the large spider	My older brother refused to touch the large spider	 spider	8.04073910923856	1
+My husband was trying to catch the large spider	My husband was trying to catch the large spider	 spider	7.397126571837394	1
+After the meal, she ate her sundae with a small metal spoon	After the meal, she ate her sundae with a small metal spoon	 spoon	1.4867095340222929	1
+Mike was searching around in the kitchen for a small metal spoon	Mike was searching around in the kitchen for a small metal spoon	 spoon	3.7904802698739686	1
+At the flea market in Sacramento he bought a small metal spoon	At the flea market in Sacramento he bought a small metal spoon	 spoon	5.9412552127839025	1
+The creature was either an octopus or a giant squid	The creature was either an octopus or a giant squid	 squid	2.641319912514404	2
+The group of scientists was attacked by a giant squid	The group of scientists was attacked by a giant squid	 squid	6.1791134580093	2
+The museum display had some pictures of a giant squid	The museum display had some pictures of a giant squid	 squid	7.132476483473133	2
+The audience shouted "boo!" until the actor walked off the stage	The audience shouted "boo!" until the actor walked off the stage	 stage	0.2148114439924208	1
+The technician had to adjust all the lights above the stage	The technician had to adjust all the lights above the stage	 stage	5.985102249424701	1
+When we walked inside, we all saw Johnathan on the stage	When we walked inside, we all saw Johnathan on the stage	 stage	4.928640924491892	1
+Even the professional dry cleaner wasn't able to remove the stain	Even the professional dry cleaner wasn't able to remove the stain	 stain	4.170094679003548	1
+My roommate needed some advice on how to remove the stain	My roommate needed some advice on how to remove the stain	 stain	5.585256528962189	1
+During the wedding reception, all of the guests noticed the stain	During the wedding reception, all of the guests noticed the stain	 stain	8.789867032063508	1
+The hopeful girl wished upon a star	The hopeful girl wished upon a star	 star	2.3550448983812764	1
+The sticker was shaped like a star	The sticker was shaped like a star	 star	5.113691416470164	1
+On the canvas, Andrew drew a star	On the canvas, Andrew drew a star	 star	5.8235637484865626	1
+At the bar, the man sat on a stool	At the bar, the man sat on a stool	 stool	1.4364591791549637	1
+During timeout, Suzie had to sit on a stool	During timeout, Suzie had to sit on a stool	 stool	2.8792744572296853	1
+To paint the ceiling, the decorator needed a stool	To paint the ceiling, the decorator needed a stool	 stool	9.806801645210374	1
+The hot pan was bubbling on the stove	The hot pan was bubbling on the stove	 stove	1.5770449186768825	1
+The children weren't supposed to touch the stove	The children weren't supposed to touch the stove	 stove	6.435234998652314	1
+Jan wasn't able to turn on the stove	Jan wasn't able to turn on the stove	 stove	6.191226919708225	1
+It's easy to spot a zebra because of its stripes	It's easy to spot a zebra because of its stripes	 stripes	5.474166428466422	1
+It's easy to recognize a bumblebee because of its stripes	It's easy to recognize a bumblebee because of its stripes	 stripes	6.923143556683928	1
+It's easy to recognize a piranha because of its stripes	It's easy to recognize a piranha because of its stripes	 stripes	7.242310256494923	1
+After cutting down the tree, all that was left was a stump	After cutting down the tree, all that was left was a stump	 stump	4.755917696453944	1
+They had to hire the landscapers, to help them remove a stump	They had to hire the landscapers, to help them remove a stump	 stump	6.89213634046282	1
+Behind the storage shed, there were some dead branches and a stump	Behind the storage shed, there were some dead branches and a stump	 stump	5.095650614669291	1
+To make the cake sweet, he added some more sugar	To make the cake sweet, he added some more sugar	 sugar	1.936067720226008	1
+My wife didn't notice that I added some more sugar	My wife didn't notice that I added some more sugar	 sugar	3.99814228232095	1
+I reminded my wife that we needed some more sugar	I reminded my wife that we needed some more sugar	 sugar	5.974601997951613	1
+To look good at the funeral, he needed to buy a suit	To look good at the funeral, he needed to buy a suit	 suit	4.475950423430424	1
+He had a big date, and he needed to buy a suit	He had a big date, and he needed to buy a suit	 suit	4.898736145176652	1
+Because he's visiting his grandma soon, he needed to buy a suit	Because he's visiting his grandma soon, he needed to buy a suit	 suit	6.444921951975142	1
+At two o'clock the British family always has crumpets and tea	At two o'clock the British family always has crumpets and tea	 tea	4.471985958461263	1
+At the breakfast buffet, the conference was serving coffee and tea	At the breakfast buffet, the conference was serving coffee and tea	 tea	2.261551552414377	1
+When their mother was home they could have brownies and tea	When their mother was home they could have brownies and tea	 tea	4.882622232821492	1
+The dentist was teaching Emma how to clean her teeth	The dentist was teaching Emma how to clean her teeth	 teeth	0.7752043956114564	1
+Our mother told my sister to always clean her teeth	Our mother told my sister to always clean her teeth	 teeth	3.46898499992295	1
+The nanny reminded my sister to look after her teeth	The nanny reminded my sister to look after her teeth	 teeth	6.700709065327888	1
+Everett lit the campfire while I pitched the tent	Everett lit the campfire while I pitched the tent	 tent	4.279339198284208	1
+The kids at summer camp slept in the tent	The kids at summer camp slept in the tent	 tent	4.252163742962351	1
+Everett's dad asked if he could move the tent	Everett's dad asked if he could move the tent	 tent	6.477101204873098	1
+The pill I just swallowed is stuck in my throat	The pill I just swallowed is stuck in my throat	 throat	0.9950574054306512	1
+The doctor said I have something stuck in my throat	The doctor said I have something stuck in my throat	 throat	2.0264838107552667	1
+The doctor isn't able to do anything about my throat	The doctor isn't able to do anything about my throat	 throat	6.772164240742695	1
+He made a dentist appointment to extract his broken tooth	He made a dentist appointment to extract his broken tooth	 tooth	1.802641037413083	1
+He had difficulty speaking because he had a broken tooth	He had difficulty speaking because he had a broken tooth	 tooth	3.354053581373257	1
+After some discussion, they decided to remove the broken tooth	After some discussion, they decided to remove the broken tooth	 tooth	7.2313262229614175	1
+The tiny maple sapling has grown into a large tree	The tiny maple sapling has grown into a large tree	 tree	2.0911464023573854	1
+The bicycle was swerving and crashed into a large tree	The bicycle was swerving and crashed into a large tree	 tree	1.865381146793824	1
+Joan and her decorator decided to add a large tree	Joan and her decorator decided to add a large tree	 tree	5.083975812033326	1
+Ben unloaded the bags of cement from the back of the truck	Ben unloaded the bags of cement from the back of the truck	 truck	1.4184407498848093	1
+The fugitive hid from the police in the back of the truck	The fugitive hid from the police in the back of the truck	 truck	3.412370647626328	1
+Ben was being so violent that he tried to smash the truck	Ben was being so violent that he tried to smash the truck	 truck	5.1541061244117605	1
+There's no need to lie, you can tell me the truth	There's no need to lie, you can tell me the truth	 truth	0.3747208302433111	1
+My friend at the office refused to tell me the truth	My friend at the office refused to tell me the truth	 truth	4.511736244682452	1
+The police officer was unsure if he could find the truth	The police officer was unsure if he could find the truth	 truth	7.350097117002551	1
+Elephants are often hunted for the ivory in their tusks	Elephants are often hunted for the ivory in their tusks	 tusks	5.929442928139332	3
+After catching the animals, the poachers cut off their tusks	After catching the animals, the poachers cut off their tusks	 tusks	6.368321663202256	3
+The smugglers could not find a buyer for their tusks	The smugglers could not find a buyer for their tusks	 tusks	11.185215707827306	3
+The city lies between two hills in a valley	The city lies between two hills in a valley	 valley	2.9242772798541568	1
+The team discovered the fertile crops in a valley	The team discovered the fertile crops in a valley	 valley	4.749630790909493	1
+The house sits between two shops in a valley	The house sits between two shops in a valley	 valley	6.3983074314305295	1
+At the ice cream shop, Jen asked for both chocolate and vanilla	At the ice cream shop, Jen asked for both chocolate and vanilla	 vanilla	1.8532366834450693	1
+To add flavor to the frosting he added maple syrup and vanilla	To add flavor to the frosting he added maple syrup and vanilla	 vanilla	3.599197835086801	1
+He walked down to the supermarket to buy milk, flour, and vanilla	He walked down to the supermarket to buy milk, flour, and vanilla	 vanilla	9.153125393244775	1
+To display the roses, Katie put them in an expensive vase	To display the roses, Katie put them in an expensive vase	 vase	4.17234009333395	2
+The collector of Chinese artifacts had just acquired the expensive vase	The collector of Chinese artifacts had just acquired the expensive vase	 vase	8.661630462617946	2
+The young couple paid lots of money for the expensive vase	The young couple paid lots of money for the expensive vase	 vase	7.718148377757178	2
+The bride covered her face with a veil	The bride covered her face with a veil	 veil	3.2239989447519046	1
+She wore a beautiful gown and a veil	She wore a beautiful gown and a veil	 veil	3.7455354604497284	1
+The seamstress sewed two sheets and a veil	The seamstress sewed two sheets and a veil	 veil	7.575809582981955	1
+Before the show, the sick opera singer suddenly lost her voice	Before the show, the sick opera singer suddenly lost her voice	 voice	1.9108327877926499	1
+Before the cameras started rolling, the actress suddenly lost her voice	Before the cameras started rolling, the actress suddenly lost her voice	 voice	2.7378881001643403	1
+Before leaving to buy groceries, my aunt suddenly lost her voice	Before leaving to buy groceries, my aunt suddenly lost her voice	 voice	4.0441756095268255	1
+In the election, people younger than eighteen aren't allowed to vote	In the election, people younger than eighteen aren't allowed to vote	 vote	0.7481110766443326	1
+In countries with strict religious codes, women aren't allowed to vote	In countries with strict religious codes, women aren't allowed to vote	 vote	4.842694436892359	1
+On some campuses, many of the students don't want to vote	On some campuses, many of the students don't want to vote	 vote	7.055920507576202	1
+The bride refused to invite her father to the wedding	The bride refused to invite her father to the wedding	 wedding	0.5047265015409037	1
+Kathy decided not to invite her uncle to the wedding	Kathy decided not to invite her uncle to the wedding	 wedding	1.4106280525484456	1
+The lazy teenager didn't want to go to the wedding	The lazy teenager didn't want to go to the wedding	 wedding	8.013807689295405	1
+The woman would need a raincoat to avoid getting wet	The woman would need a raincoat to avoid getting wet	 wet	3.2916176176782512	1
+He didn't drive home because the roads were getting wet	He didn't drive home because the roads were getting wet	 wet	4.771959651728676	1
+He doesn't run very often because he hates getting wet	He doesn't run very often because he hates getting wet	 wet	4.802575310343816	1
+The referee was blowing on his whistle	The referee was blowing on his whistle	 whistle	2.4229021288950494	1
+None of the players heard his whistle	None of the players heard his whistle	 whistle	6.946672493476664	1
+My brother remembered to bring his whistle	My brother remembered to bring his whistle	 whistle	10.186643239555089	1
+At the vineyard, he bought a fancy bottle of wine	At the vineyard, he bought a fancy bottle of wine	 wine	2.4781942391556697	1
+The waiter forgot to bring me my glass of wine	The waiter forgot to bring me my glass of wine	 wine	1.0402817636547377	1
+At the market, he bought a new type of wine	At the market, he bought a new type of wine	 wine	6.393114791069441	1
+Then, the genie granted his third and final wish	Then, the genie granted his third and final wish	 wish	1.025276814697923	1
+The king remembered that he had one final wish	The king remembered that he had one final wish	 wish	3.4210151505574333	1
+The young boy had forgotten about his final wish	The young boy had forgotten about his final wish	 wish	4.001268909101575	1
+The kids thought that the scary old woman was probably a witch	The kids thought that the scary old woman was probably a witch	 witch	3.9274894771402735	1
+For Halloween that year she decided to dress up as a witch	For Halloween that year she decided to dress up as a witch	 witch	4.157138472824348	1
+She decided that she shouldn't write a children's story about a witch	She decided that she shouldn't write a children's story about a witch	 witch	7.140203208186505	1
+At the sawmill they slice logs into long planks of wood	At the sawmill they slice logs into long planks of wood	 wood	1.1725162969580238	1
+To repair the cabinet, he needed several different types of wood	To repair the cabinet, he needed several different types of wood	 wood	3.483405516432464	1
+At the ancient burial site they found weapons made of wood	At the ancient burial site they found weapons made of wood	 wood	3.1584668002857565	1
+Shearing the sheep produced a large amount of wool	Shearing the sheep produced a large amount of wool	 wool	3.453923949761262	1
+The elderly shepherd sold a large amount of wool	The elderly shepherd sold a large amount of wool	 wool	3.948125451494525	1
+The new factory produced a large amount of wool	The new factory produced a large amount of wool	 wool	7.638476593931116	1
+The old couple sat together without speaking a single word	The old couple sat together without speaking a single word	 word	0.14378245338096146	1
+Despite his best efforts, he couldn't recognize a single word	Despite his best efforts, he couldn't recognize a single word	 word	4.514581976053706	1
+During his stay, the visitor only used a single word	During his stay, the visitor only used a single word	 word	4.874215092782039	1
+The kitten was playing with a ball of yarn	The kitten was playing with a ball of yarn	 yarn	1.3792837024465519	1
+The old woman was collecting different colors of yarn	The old woman was collecting different colors of yarn	 yarn	4.236985865064368	1
+Emily had trouble finding the right color of yarn	Emily had trouble finding the right color of yarn	 yarn	4.113637576661598	1
+To record some high school memories, he had everyone sign his yearbook	To record some high school memories, he had everyone sign his yearbook	 yearbook	8.233431243119135	2
+In high school, I wrote my boyfriend a message in his yearbook	In high school, I wrote my boyfriend a message in his yearbook	 yearbook	8.103235484682031	2
+Apparently, because James didn't have a pen, he couldn't sign his yearbook	Apparently, because James didn't have a pen, he couldn't sign his yearbook	 yearbook	10.49918007731081	2
+To see the exotic animals, we took the children to the zoo	To see the exotic animals, we took the children to the zoo	 zoo	1.4802657120147935	1
+To see the pretty horses, we took the children to the zoo	To see the pretty horses, we took the children to the zoo	 zoo	2.3868033958532546	1
+Jennifer asked a close friend if they could go to the zoo	Jennifer asked a close friend if they could go to the zoo	 zoo	4.672549863471941	1

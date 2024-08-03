@@ -1,0 +1,15 @@
+Dataset	ModelName	ModelArchitecture	ModelSize	Surprisal_AIC
+Luke & Christianson (2018): GPD	mamba-130m-hf	mamba	129135360	281001.5700506347
+Luke & Christianson (2018): GPD	mamba-1_4b-hf	mamba	1372178432	281169.5846664289
+Luke & Christianson (2018): GPD	mamba-2_8b-hf	mamba	2768345600	281205.3731786567
+Luke & Christianson (2018): GPD	mamba-370m-hf	mamba	371516416	281113.1668865784
+Luke & Christianson (2018): GPD	mamba-790m-hf	mamba	793204224	281168.3485948807
+Luke & Christianson (2018): GPD	pythia-160m	pythia	162322944	280954.57055504376
+Luke & Christianson (2018): GPD	pythia-1_4b	pythia	1414647808	281145.6507447083
+Luke & Christianson (2018): GPD	pythia-1b	pythia	1011781632	281050.80494251545
+Luke & Christianson (2018): GPD	pythia-2_8b	pythia	2775208960	281164.8755732735
+Luke & Christianson (2018): GPD	pythia-410m	pythia	405334016	281033.28241841326
+Luke & Christianson (2018): GPD	rwkv-4-169m-pile	rwkv	169342464	280997.3548166177
+Luke & Christianson (2018): GPD	rwkv-4-1b5-pile	rwkv	1515106304	281170.0305019719
+Luke & Christianson (2018): GPD	rwkv-4-3b-pile	rwkv	2984627200	281237.5130896776
+Luke & Christianson (2018): GPD	rwkv-4-430m-pile	rwkv	430397440	281034.0003938917

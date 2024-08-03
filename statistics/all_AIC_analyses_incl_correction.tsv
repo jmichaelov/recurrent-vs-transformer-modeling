@@ -1,0 +1,97 @@
+Analysis	df	Dataset	Predictor	Estimate	SE	t	p	p_uncorrected
+Model Scale	10	Boyce & Levy (2023): Maze RT	Intercept	-0.2065	0.1726	-1.1965	1	0.2591
+Model Scale	10	Boyce & Levy (2023): Maze RT	Mamba	0.2558	0.2443	1.0471	1	0.3197
+Model Scale	10	Boyce & Levy (2023): Maze RT	RWKV	0.4031	0.2588	1.5573	1	0.1505
+Model Scale	10	Boyce & Levy (2023): Maze RT	Scale	0.9279	0.1072	8.6588	3e-04	< 0.0001
+Model Scale	10	Brothers & Kuperberg (2021): 3W-RT	Intercept	0.3774	0.3298	1.1445	1	0.2791
+Model Scale	10	Brothers & Kuperberg (2021): 3W-RT	Mamba	-0.7448	0.4668	-1.5956	1	0.1417
+Model Scale	10	Brothers & Kuperberg (2021): 3W-RT	RWKV	-0.39	0.4945	-0.7887	1	0.4486
+Model Scale	10	Brothers & Kuperberg (2021): 3W-RT	Scale	-0.7049	0.2047	-3.4425	0.1298	0.0063
+Model Scale	10	Federmeier et al. (2007)	Intercept	0.3139	0.1737	1.8068	1	0.1009
+Model Scale	10	Federmeier et al. (2007)	Mamba	-0.5605	0.2459	-2.2797	0.6657	0.0458
+Model Scale	10	Federmeier et al. (2007)	RWKV	-0.3979	0.2605	-1.5276	1	0.1576
+Model Scale	10	Federmeier et al. (2007)	Scale	-0.9164	0.10780000000000001	-8.4972	3e-04	< 0.0001
+Model Scale	10	Futrell et al. (2021): SPR RT	Intercept	-0.2114	0.1511	-1.3997	1	0.1918
+Model Scale	10	Futrell et al. (2021): SPR RT	Mamba	0.4669	0.2138	2.1841	0.7605	0.0539
+Model Scale	10	Futrell et al. (2021): SPR RT	RWKV	0.1563	0.2265	0.6902	1	0.5058
+Model Scale	10	Futrell et al. (2021): SPR RT	Scale	0.9428	0.0938	10.0537	1e-04	< 0.0001
+Model Scale	10	Hubbard et al. (2019)	Intercept	0.3005	0.2758	1.0897	1	0.3014
+Model Scale	10	Hubbard et al. (2019)	Mamba	-0.7025	0.3904	-1.7997	1	0.1021
+Model Scale	10	Hubbard et al. (2019)	RWKV	-0.1738	0.4136	-0.4202	1	0.6832
+Model Scale	10	Hubbard et al. (2019)	Scale	-0.7949	0.1712	-4.6428	0.0267	9e-04
+Model Scale	10	Kennedy et al. (2003): GPD	Intercept	-0.4226	0.1032	-4.0972	0.0484	0.0022
+Model Scale	10	Kennedy et al. (2003): GPD	Mamba	0.771	0.146	5.2809	0.011	4e-04
+Model Scale	10	Kennedy et al. (2003): GPD	RWKV	0.5155	0.1547	3.3326	0.1441	0.0076
+Model Scale	10	Kennedy et al. (2003): GPD	Scale	0.932	0.064	14.5533	< 0.0001	< 0.0001
+Model Scale	10	Luke & Christianson (2018): GPD	Intercept	-0.4129	0.1328	-3.1089	0.1999	0.0111
+Model Scale	10	Luke & Christianson (2018): GPD	Mamba	0.7922	0.188	4.2141	0.0442	0.0018
+Model Scale	10	Luke & Christianson (2018): GPD	RWKV	0.455	0.1992	2.2845	0.6657	0.0454
+Model Scale	10	Luke & Christianson (2018): GPD	Scale	0.9165	0.0825	11.1145	< 0.0001	< 0.0001
+Model Scale	10	Michaelov et al. (2024)	Intercept	-0.0591	0.4811	-0.1229	1	0.9046
+Model Scale	10	Michaelov et al. (2024)	Mamba	-0.1731	0.6809	-0.2543	1	0.8044
+Model Scale	10	Michaelov et al. (2024)	RWKV	0.4234	0.7214	0.5869	1	0.5703
+Model Scale	10	Michaelov et al. (2024)	Scale	-0.227	0.2987	-0.7599	1	0.4649
+Model Scale	10	Smith and Levy (2013): SPR RT	Intercept	-0.3274	0.3627	-0.9025	1	0.388
+Model Scale	10	Smith and Levy (2013): SPR RT	Mamba	0.3384	0.5134	0.6591	1	0.5247
+Model Scale	10	Smith and Levy (2013): SPR RT	RWKV	0.7229	0.5439	1.329	1	0.2134
+Model Scale	10	Smith and Levy (2013): SPR RT	Scale	0.6377	0.2252	2.8318	0.2931	0.0178
+Model Scale	10	Szewczyk & Federmeier (2022)	Intercept	0.491	0.2899	1.694	1	0.1211
+Model Scale	10	Szewczyk & Federmeier (2022)	Mamba	-0.8209	0.4103	-2.0008	0.9786	0.0733
+Model Scale	10	Szewczyk & Federmeier (2022)	RWKV	-0.6925	0.4347	-1.5932	1	0.1422
+Model Scale	10	Szewczyk & Federmeier (2022)	Scale	-0.7424	0.18	-4.1257	0.0484	0.0021
+Model Scale	10	Szewczyk et al. (2022)	Intercept	0.3879	0.456	0.8506	1	0.4149
+Model Scale	10	Szewczyk et al. (2022)	Mamba	-0.8438	0.6455	-1.3073	1	0.2204
+Model Scale	10	Szewczyk et al. (2022)	RWKV	-0.3029	0.6838	-0.4429	1	0.6673
+Model Scale	10	Szewczyk et al. (2022)	Scale	0.2281	0.2831	0.8056	1	0.4392
+Model Scale	10	Wlotko & Federmeier (2012)	Intercept	0.3373	0.2122	1.5894	1	0.1431
+Model Scale	10	Wlotko & Federmeier (2012)	Mamba	-0.728	0.3004	-2.4237	0.5711	0.0358
+Model Scale	10	Wlotko & Federmeier (2012)	RWKV	-0.2705	0.3182	-0.8501	1	0.4152
+Model Scale	10	Wlotko & Federmeier (2012)	Scale	-0.8666	0.1317	-6.5779	0.0026	< 0.0001
+Quality	10	Boyce & Levy (2023): Maze RT	Intercept	-0.1385	0.2406	-0.5754	1	0.5777
+Quality	10	Boyce & Levy (2023): Maze RT	Mamba	-0.1504	0.3443	-0.4369	1	0.6715
+Quality	10	Boyce & Levy (2023): Maze RT	RWKV	0.6726	0.364	1.8479	1	0.0944
+Quality	10	Boyce & Levy (2023): Maze RT	Perplexity	0.8996	0.1549	5.8072	0.006	2e-04
+Quality	10	Brothers & Kuperberg (2021): 3W-RT	Intercept	0.3219	0.2891	1.1134	1	0.2916
+Quality	10	Brothers & Kuperberg (2021): 3W-RT	Mamba	-0.3969	0.4136	-0.9596	1	0.3599
+Quality	10	Brothers & Kuperberg (2021): 3W-RT	RWKV	-0.6304	0.4373	-1.4416	1	0.18
+Quality	10	Brothers & Kuperberg (2021): 3W-RT	Perplexity	-0.799	0.1861	-4.2932	0.041	0.0016
+Quality	10	Federmeier et al. (2007)	Intercept	0.2441	0.1526	1.5991	1	0.1409
+Quality	10	Federmeier et al. (2007)	Mamba	-0.1333	0.2184	-0.6103	1	0.5553
+Quality	10	Federmeier et al. (2007)	RWKV	-0.6877	0.2309	-2.9784	0.2359	0.0138
+Quality	10	Federmeier et al. (2007)	Perplexity	-0.9651	0.0983	-9.8209	1e-04	< 0.0001
+Quality	10	Futrell et al. (2021): SPR RT	Intercept	-0.1406	0.1704	-0.825	1	0.4286
+Quality	10	Futrell et al. (2021): SPR RT	Mamba	0.0371	0.2438	0.1521	1	0.8821
+Quality	10	Futrell et al. (2021): SPR RT	RWKV	0.4457	0.2578	1.729	1	0.1145
+Quality	10	Futrell et al. (2021): SPR RT	Perplexity	0.9643	0.1097	8.7906	3e-04	< 0.0001
+Quality	10	Hubbard et al. (2019)	Intercept	0.2389	0.2386	1.0013	1	0.3403
+Quality	10	Hubbard et al. (2019)	Mamba	-0.3204	0.3413	-0.9386	1	0.3701
+Quality	10	Hubbard et al. (2019)	RWKV	-0.4356	0.3609	-1.207	1	0.2552
+Quality	10	Hubbard et al. (2019)	Perplexity	-0.871	0.1536	-5.6713	0.0068	2e-04
+Quality	10	Kennedy et al. (2003): GPD	Intercept	-0.3516	0.0518	-6.7941	0.0021	< 0.0001
+Quality	10	Kennedy et al. (2003): GPD	Mamba	0.3359	0.074	4.5363	0.0297	0.0011
+Quality	10	Kennedy et al. (2003): GPD	RWKV	0.8108	0.0783	10.3565	1e-04	< 0.0001
+Quality	10	Kennedy et al. (2003): GPD	Perplexity	0.9833	0.0333	29.5132	< 0.0001	< 0.0001
+Quality	10	Luke & Christianson (2018): GPD	Intercept	-0.3438	0.143	-2.404	0.5722	0.0371
+Quality	10	Luke & Christianson (2018): GPD	Mamba	0.3721	0.2046	1.8182	1	0.0991
+Quality	10	Luke & Christianson (2018): GPD	RWKV	0.7383	0.2164	3.4126	0.131	0.0066
+Quality	10	Luke & Christianson (2018): GPD	Perplexity	0.9441	0.0921	10.2535	1e-04	< 0.0001
+Quality	10	Michaelov et al. (2024)	Intercept	-0.0739	0.4882	-0.1513	1	0.8828
+Quality	10	Michaelov et al. (2024)	Mamba	-0.0934	0.6985	-0.1336	1	0.8963
+Quality	10	Michaelov et al. (2024)	RWKV	0.3752	0.7386	0.508	1	0.6225
+Quality	10	Michaelov et al. (2024)	Perplexity	-0.1624	0.3143	-0.5167	1	0.6166
+Quality	10	Smith and Levy (2013): SPR RT	Intercept	-0.2781	0.3479	-0.7994	1	0.4427
+Quality	10	Smith and Levy (2013): SPR RT	Mamba	0.0336	0.4978	0.0676	1	0.9475
+Quality	10	Smith and Levy (2013): SPR RT	RWKV	0.9313	0.5263	1.7696	1	0.1072
+Quality	10	Smith and Levy (2013): SPR RT	Perplexity	0.6934	0.224	3.096	0.1999	0.0113
+Quality	10	Szewczyk & Federmeier (2022)	Intercept	0.4354	0.2995	1.4538	1	0.1766
+Quality	10	Szewczyk & Federmeier (2022)	Mamba	-0.4841	0.4285	-1.1298	1	0.2849
+Quality	10	Szewczyk & Federmeier (2022)	RWKV	-0.9188	0.453	-2.0281	0.9611	0.07
+Quality	10	Szewczyk & Federmeier (2022)	Perplexity	-0.7544	0.1928	-3.9127	0.0623	0.0029
+Quality	10	Szewczyk et al. (2022)	Intercept	0.4018	0.4657	0.8629	1	0.4084
+Quality	10	Szewczyk et al. (2022)	Mamba	-0.9151	0.6663	-1.3735	1	0.1996
+Quality	10	Szewczyk et al. (2022)	RWKV	-0.2625	0.7045	-0.3726	1	0.7172
+Quality	10	Szewczyk et al. (2022)	Perplexity	0.1371	0.2998	0.4574	1	0.6572
+Quality	10	Wlotko & Federmeier (2012)	Intercept	0.2723	0.2288	1.1904	1	0.2614
+Quality	10	Wlotko & Federmeier (2012)	Mamba	-0.3345	0.3273	-1.0221	1	0.3308
+Quality	10	Wlotko & Federmeier (2012)	RWKV	-0.535	0.3461	-1.5459	1	0.1532
+Quality	10	Wlotko & Federmeier (2012)	Perplexity	-0.8816	0.1473	-5.9859	0.0051	1e-04

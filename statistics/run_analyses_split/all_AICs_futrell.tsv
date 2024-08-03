@@ -1,0 +1,15 @@
+Dataset	ModelName	ModelArchitecture	ModelSize	Surprisal_AIC
+Futrell et al. (2021): SPR RT	mamba-130m-hf	mamba	129135360	1849197.9659072505
+Futrell et al. (2021): SPR RT	mamba-1_4b-hf	mamba	1372178432	1849523.7936623297
+Futrell et al. (2021): SPR RT	mamba-2_8b-hf	mamba	2768345600	1849690.2392996137
+Futrell et al. (2021): SPR RT	mamba-370m-hf	mamba	371516416	1849383.828194574
+Futrell et al. (2021): SPR RT	mamba-790m-hf	mamba	793204224	1849409.0062863491
+Futrell et al. (2021): SPR RT	pythia-160m	pythia	162322944	1849145.7326958613
+Futrell et al. (2021): SPR RT	pythia-1_4b	pythia	1414647808	1849398.8199354801
+Futrell et al. (2021): SPR RT	pythia-1b	pythia	1011781632	1849338.2635833777
+Futrell et al. (2021): SPR RT	pythia-2_8b	pythia	2775208960	1849620.3341002706
+Futrell et al. (2021): SPR RT	pythia-410m	pythia	405334016	1849347.3844594583
+Futrell et al. (2021): SPR RT	rwkv-4-169m-pile	rwkv	169342464	1849051.0220506291
+Futrell et al. (2021): SPR RT	rwkv-4-1b5-pile	rwkv	1515106304	1849571.2577854658
+Futrell et al. (2021): SPR RT	rwkv-4-3b-pile	rwkv	2984627200	1849666.0823118717
+Futrell et al. (2021): SPR RT	rwkv-4-430m-pile	rwkv	430397440	1849307.4638126025

@@ -1,0 +1,15 @@
+Dataset	ModelName	ModelArchitecture	ModelSize	Surprisal_AIC
+Kennedy et al. (2003): GPD	mamba-130m-hf	mamba	129135360	524244.7627337201
+Kennedy et al. (2003): GPD	mamba-1_4b-hf	mamba	1372178432	524635.2294284424
+Kennedy et al. (2003): GPD	mamba-2_8b-hf	mamba	2768345600	524698.4917507312
+Kennedy et al. (2003): GPD	mamba-370m-hf	mamba	371516416	524409.9751343993
+Kennedy et al. (2003): GPD	mamba-790m-hf	mamba	793204224	524610.9046247669
+Kennedy et al. (2003): GPD	pythia-160m	pythia	162322944	524057.0615163712
+Kennedy et al. (2003): GPD	pythia-1_4b	pythia	1414647808	524515.4813833849
+Kennedy et al. (2003): GPD	pythia-1b	pythia	1011781632	524430.8562898121
+Kennedy et al. (2003): GPD	pythia-2_8b	pythia	2775208960	524595.525681242
+Kennedy et al. (2003): GPD	pythia-410m	pythia	405334016	524347.9570915222
+Kennedy et al. (2003): GPD	rwkv-4-169m-pile	rwkv	169342464	524216.89250280603
+Kennedy et al. (2003): GPD	rwkv-4-1b5-pile	rwkv	1515106304	524609.2020919633
+Kennedy et al. (2003): GPD	rwkv-4-3b-pile	rwkv	2984627200	524694.545966257
+Kennedy et al. (2003): GPD	rwkv-4-430m-pile	rwkv	430397440	524432.469381337
